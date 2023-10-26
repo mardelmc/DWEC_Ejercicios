@@ -9,7 +9,7 @@ div{
 
 h2{
     color: rgb(253, 253, 253); 
-    text-shadow: -5px -5px 4px rgba(241, 84, 84), 5px 5px 4px rgba(46, 137, 255);
+    text-shadow: #FFF 0px 0px 5px, #FFF 0px 0px 10px, #FFF 0px 0px 15px, #FF2D95 0px 0px 20px, #FF2D95 0px 0px 30px, #FF2D95 0px 0px 40px, #FF2D95 0px 0px 50px, #FF2D95 0px 0px 75px
 }
 img{
     height: 10em;
