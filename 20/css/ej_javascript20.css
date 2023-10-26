@@ -1,0 +1,20 @@
+p {
+    float: left; 
+    text-align: left;
+    margin-top: 50%;
+}
+
+#logoNavegador {
+    float: left; 
+    margin-top: 5%;
+}
+
+img {
+    width: 20%;
+    display: block; 
+}
+
+p {
+    font-size: large;
+    margin: 10px 0;
+}

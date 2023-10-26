@@ -1,0 +1,16 @@
+div{
+    margin-top: 15%;
+}
+table{
+    margin: auto;
+    width: 20%;
+}
+table, tr, td{
+    border: 0.1em black solid;
+    border-collapse: collapse;
+}
+td{
+    padding: 2%;
+    font-size: larger;
+    text-align: center;
+}

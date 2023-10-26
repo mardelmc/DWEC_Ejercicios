@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Elige un color para cambiar el fondo</h1>
+    <button type="button" onclick="cambiarColor('red')">Rojo</button> 
+    <button type="button" onclick="cambiarColor('green')">Verde</button> 
+    <button type="button" onclick="cambiarColor('blue')">Azul</button> 
+    <button type="button" onclick="cambiarColor('yellow')">Amarillo</button> 
+    <button type="button" onclick="cambiarMas()">Mas</button> 
+    <script>
+        function cambiarColor(color){
+            document.body.style.backgroundColor = color;
+        }
+
+        function cambiarMas() {
+            color = document.body.style.backgroundColor;
+            switch (color){
+                case 'red':
+                    cambiarColor('green');
+                    break;
+                case 'green':
+                    cambiarColor('blue');
+                    break;
+                case 'blue':
+                    cambiarColor('yellow');
+                    break;
+                case 'yellow':
+                    cambiarColor('red');
+                    break;
+                default: 
+                    cambiarColor('red');
+            } 
+        };
+    </script>
+</body>
+</html>

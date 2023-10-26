@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        numeroPedido = parseInt(prompt ("Introduce numero:"));
+
+        document.write("<table border = 3") //style = \"width: 25%; border: 1px solid \">
+        document.write("<tr><th colspan=5>Tabla de multiplicar del ",numeroPedido,"</th></tr>");
+
+        for(i = 1; i <= 10; i++){
+            resultado = i * numeroPedido;
+            document.write("<tr>");
+            document.write("<td>",i,"</td>", "<td> * </td>", "<td>",numeroPedido,"</td>", "<td> = </td>", "<td>", resultado ,"</td>");
+            document.write("</tr>");
+        }
+        document.write("</table>");
+    </script>
+</body>
+</html>

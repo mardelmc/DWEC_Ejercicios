@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var numeroPedido, resultado, i;
+        numeroPedido = parseInt(prompt ("Introduce número:"));
+        document.write("<table border = 1>") //style = \"width: 25%; border: 1px solid \">
+        document.write("<tr><th colspan=5>Tabla de multiplicar del ",numeroPedido,"</th></tr>");
+        
+        for(i = 1; i <= 10; i++){
+            resultado = i * numeroPedido;
+            document.write("<tr>");
+            if (i % 2 == 0) {
+                document.write("<tr style = \"background-color : lightgreen\">");
+                document.write("<td>",i,"</td>", "<td> * </td>", "<td>",numeroPedido,"</td>", "<td> = </td>", "<td style =\"color:red\">", multiplicar(i, numeroPedido) ,"</td>");
+                document.write("</tr>");
+            } else {
+                document.write("<tr style = \"background-color : lightblue\">");
+                document.write("<td>",i,"</td>", "<td> * </td>", "<td>",numeroPedido,"</td>", "<td> = </td>", "<td style =\"color:red\">", multiplicar(i, numeroPedido) ,"</td>");
+                document.write("</tr>");
+            }
+        }
+        document.write("</table>");
+
+        function multiplicar(num1, num2){
+            return num1 * num2;
+        }
+    </script>
+</body>
+</html>
+<!--Solo se escribe en un solo sitio-->
+<!--Hay que depurar los datos introducidos-->
+<!--No escapar, usar diferentes comillas '`"-->
+<!--Usar funciones-->

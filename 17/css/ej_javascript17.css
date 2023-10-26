@@ -1,0 +1,12 @@
+div{
+    width: 30%;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    margin-top: 50%;
+    font-size: 400%;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 1em;
+    border: 0.2em solid darkslateblue;
+}

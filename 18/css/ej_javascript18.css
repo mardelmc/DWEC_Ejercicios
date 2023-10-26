@@ -1,0 +1,44 @@
+table{
+    width: 20%;
+    height: 50%;
+    text-align: center;
+    margin: auto;
+    margin-top: 10%;
+    background-color: rgb(243, 243, 243);
+    padding: 1%;
+    border: 0.1em solid darkgrey;
+    border-radius: 0.6em;
+
+}
+th{
+    font-size: xx-large;
+}
+tr, td{
+    border-collapse: collapse;
+
+}
+button{
+    height: 100%;
+    width: 100%;
+    background-color: lightblue;
+    font-size: large;
+    border: none;
+    border-radius: 0.3em;
+}
+button:hover{
+    background-color: lightskyblue;
+}
+
+h1{
+    text-align: center;
+    font-size: 300%;
+}
+img{
+    width: 30%;
+}
+#\=, #me, #re, #ce{
+    background-color: lightsalmon;
+}
+#\=:hover, #me:hover, #re:hover, #ce:hover{
+    background-color: salmon;
+}

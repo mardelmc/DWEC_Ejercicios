@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        var a, b, c, raiz;
+        a = parseInt(prompt ("Introduce numero:"));
+        b = parseInt(prompt ("Introduce numero:"));
+        c = parseInt(prompt ("Introduce numero:"));
+
+        raiz = b * b - 4 * a * c;
+        resultado1 = (-b + Math.sqrt(raiz)) / (2 * a); 
+        resultado2 = (-b - Math.sqrt(raiz)) / (2 * a); 
+
+        if(raiz > 0) {
+            document.write ("Las soluciones son: ", a, " y ", b);
+        } else if (raiz == 0) {
+            document.write ("La solucion es: ", a);
+        } else if (raiz < 0) {
+            document.write ("No tiene soluciones posibles");
+        }
+        
+    </script>
+</body>
+</html>

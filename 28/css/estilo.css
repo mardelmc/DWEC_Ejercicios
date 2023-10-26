@@ -1,0 +1,17 @@
+div{
+    border: 1px black solid;
+    width: 40%;
+    margin: 10% auto;
+    padding: 1%;
+    text-align: center;
+    background: #1a1a1a;
+}
+
+h2{
+    color: rgb(253, 253, 253); 
+    text-shadow: -5px -5px 4px rgba(241, 84, 84), 5px 5px 4px rgba(46, 137, 255);
+}
+img{
+    height: 10em;
+    width: 8em;
+}

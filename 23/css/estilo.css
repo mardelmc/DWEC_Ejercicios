@@ -1,0 +1,9 @@
+form{
+    border: 1px black solid;
+    width: 20%;
+    margin: 10% auto;
+    padding: 2%;
+}
+p{
+    font-size: larger;
+}

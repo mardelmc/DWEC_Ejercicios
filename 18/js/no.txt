@@ -1,0 +1,106 @@
+window.addEventListener('load', main);
+function main(){
+    // Seleccion del array de botones
+    let botones = document.querySelectorAll('#contenedor button');
+    let resultado = document.querySelector('#contenedor th');
+    let operandos = ['+', '-', '*', '/'];
+    let valorActual = '';
+    let num1 = null;
+    let num2 = null;
+    let operador = null;
+    let guardado = null;
+
+
+    // Por cada boton del array de botones, si hay click manda a operacion
+    for(boton of botones){
+        boton.addEventListener('click', operacion);
+    }
+
+    // Event representa el evento de click
+    function operacion(evento){
+        // Event.target, referencia al elemento que se hizo click
+        let btnPulsado = evento.target.textContent;
+        /*let idBoton = event.target.id;*/
+
+
+        escritura(btnPulsado);
+
+        //Si esta dentro de los numeros de 0 al 9 la valorActual es el digito pulsado
+        if (!isNaN(btnPulsado)) { 
+            valorActual += btnPulsado;
+            escritura(valorActual);
+
+        //Si no se comprueba si es un operando del array
+        } else if (operandos.includes(btnPulsado)) {
+            //Si el num1 esta vacío se le coloca el numero de la valorActual y se vacía
+            if (num1 === null) {
+                num1 = parseFloat(valorActual);
+                operador = btnPulsado; 
+                valorActual = ''; 
+            //Si el num2 está vacío se le asigna la valorActual y se llama al calculo y se vacía
+            } else if (num2 === null) {
+                num2 = parseFloat(valorActual);
+                num1 = calculo(num1, num2, operador);
+                operador = btnPulsado;
+                num2 = null;
+                valorActual = '';
+            }
+            //Si el btn es = se comprueba que el num1 tenga el resultado y el num2 esté vacio
+            // el num2 es la operacion actual y se llama al calculo
+        } else if (btnPulsado === '=') {
+            if (num1 !== null && num2 === null) {
+                num2 = parseFloat(valorActual);
+                num1 = calculo(num1, num2, operador);
+                escritura(num1); // Resultado en la función escritura
+                num2 = null;
+                valorActual = '';
+            }
+            //Si es Ce, se limpia todo y se escribe 0
+        } else if (btnPulsado === 'Ce') {
+            valorActual = '';
+            num1 = null;
+            num2 = null;
+            operador = null;
+            escritura(0); 
+        } else if (btnPulsado === 'Me') {
+            guardado = valorActual;
+            escritura(valorActual);
+            // GUARDA
+        } else if (btnPulsado === 'Re') {
+            valorActual = guardado;
+            escritura(valorActual);
+            // RECUPERA
+        }
+    }
+
+    function escritura(dato){
+        resultado.textContent = dato;
+    }
+
+    function calculo(a, b, operador){
+        let resultado;
+        switch (operador){
+            case '+':
+                resultado = a + b;
+                break;
+            case '-':
+                resultado = a - b;
+                break;
+            case '*':
+                resultado = a * b;
+                break;
+            case '/':
+                resultado = a / b;
+                break;
+            default:
+                return null;
+        }
+        return resultado;
+    }
+}
+
+/*
+function lupa(num1=0){
+    let titulo = document.querySelector('#lupa h1');
+    titulo.textContent = num1;
+}*/

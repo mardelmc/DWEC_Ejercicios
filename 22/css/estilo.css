@@ -1,0 +1,19 @@
+nav{
+    width: 20%;
+    margin: 10% 10%;
+    border: 0.1em black solid;
+    padding: 1%;
+}
+ul{
+    padding: 0;
+}
+ul li{
+    font-size: 1.5em;
+    padding: 5%;
+    list-style:inside;
+    border-radius: 1em;
+}
+.color{
+    background-color:powderblue;
+    color: lightyellow;
+}
