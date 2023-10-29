@@ -15,7 +15,7 @@ const palabras = [
     "purpura",
 ];
 let letra = "";
-
+let fallo = 0;
 function main() {
     const aleatorio = Math.floor(Math.random() * palabras.length);
     const palabra = palabras[aleatorio];
@@ -36,7 +36,6 @@ function pintaPanel(palabra){
     }
 }
 
-
 function actualizaPanel(letra) {
     const parrafo = document.querySelector(".panel p");
 
@@ -48,13 +47,11 @@ function actualizaPanel(letra) {
             letraEncontrada = true;
         }
     }
-
     if (!letraEncontrada) {
-        pintaMoneco(1);
-        comprobacionMensaje(letra);
+        pintaMoneco();
         pintaFallidas(letra);
+        comprobacionMensaje(letra);
     }
-
     // Actualiza la representación de la palabra a mostrar
     let palabraMostrada = letrasAdivinadas.join(' ');
     parrafo.textContent = palabraMostrada;
@@ -64,8 +61,6 @@ function actualizaPanel(letra) {
         comprobacionMensaje(2);
     }
 }
-
-
 
 function introduceLetra(){
 // Introduce Letra
@@ -80,7 +75,6 @@ function introduceLetra(){
     });
     
 }
-
 function introduceResuelvo(palabra){
 //Muestra el panel de resolucion y introduce resuelvo
     const mos = document.getElementById("btnMos");
@@ -100,33 +94,35 @@ function introduceResuelvo(palabra){
         }
     });
 }
-function pintaMoneco(fallo){
-    let fallos;
+function pintaMoneco(){
+// Va cambiando el moneco según el estado
+    fallo++;
+    console.log(fallo);
     const moneco = document.querySelector("#cambio");
     switch(fallo){
         case 1:
-            moneco.src="";
-        break;
-        case 2:
             moneco.src="./recursos/0.png";
         break;
-        case 3:
+        case 2:
             moneco.src="./recursos/1.png";
         break;
-        case 4:
+        case 3:
             moneco.src="./recursos/2.png";
         break;
-        case 5:
+        case 4:
             moneco.src="./recursos/3.png";
         break;
-        case 6:
+        case 5:
             moneco.src="./recursos/4.png";
         break;
-        case 7:
+        case 6:
             moneco.src="./recursos/5.png";
         break;
+        case 7:
+            moneco.src="./recursos/6.png";
+        break;
         default:
-            moneco.src="./recursos/5.png";
+            moneco.src="./recursos/0.png";
     }
 }
 
