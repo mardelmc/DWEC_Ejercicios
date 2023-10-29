@@ -10,7 +10,7 @@
 <body>
     <main>
         <div class="panel">
-            <p><span>_</span><span>a</span></p>
+            <p></p>
         </div>
         <div class="mensaje">
             <p></p>
@@ -18,22 +18,18 @@
         <div class="datos">
             <div class="introduce">
                 <label for="introduce">Introduce letra: </label>
-                <input type="text" id="introduce">
+                <input type="text" id="introduce" maxlength="1">
                 <button id="btnInt">Intro -></button>
             </div>
             <div class="resuelvo">
-                <input type="text" id="resuelvo">
-                <button id="btnRes">Resuelvo -></button>
+                <input type="text" id="resuelvoTexto" hidden>
+                <button id="btnRes" hidden>Resuelvo -></button>
+                <button id="btnMos">Resuelvo -></button>
             </div>
         </div>
         <div class="moneco">
             <img src="./recursos/horca.png" alt="">
-            <img src="./recursos/0.png" alt="">
-            <img src="./recursos/1.png" alt="">
-            <img src="./recursos/2.png" alt="">
-            <img src="./recursos/3.png" alt="">
-            <img src="./recursos/4.png" alt="">
-            <img src="./recursos/5.png" alt="">
+            <img id="cambio" src="./recursos/0.png" alt="">
         </div>
         <div class="fallidas">
             <p></p>
