@@ -97,7 +97,6 @@ function introduceResuelvo(palabra){
 function pintaMoneco(){
 // Va cambiando el moneco según el estado
     fallo++;
-    console.log(fallo);
     const moneco = document.querySelector("#cambio");
     switch(fallo){
         case 1:
