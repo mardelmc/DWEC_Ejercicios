@@ -1,5 +1,8 @@
 form{
     width: 50%;
-    border: 1px solid black;
     margin: 2% auto;
+  
+}
+fieldset{
+    background-color: lightgreen;
 }
