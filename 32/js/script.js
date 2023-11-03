@@ -1,7 +1,7 @@
 window.addEventListener('DOMContentLoaded', main);
 function main() {
-    const enviar = document.querySelector("form");
-    enviar.addEventListener("submit", function(){
+    const enviar = document.querySelector("#btnEnv");
+    enviar.addEventListener("click", function(){
         const telef = document.getElementById('telp');
         if(!telef.textContent == ""){
             const telefonoRegex = /^[6-9]\d{8}$/;
@@ -39,4 +39,25 @@ function main() {
             }
         }
     });
+}
+
+function comprobarDni(dni){
+  let salida = false;
+    if(!dni.textContent == ""){
+        const dniRegex = /^(\d{8})([A-Z])$/; 
+        if (dniRegex.test(dni)) {
+            const numeroDNI = dni.substring(0, 8); 
+            const letraProvida = dni.charAt(8);
+            const letrasPosibles = 'TRWAGMYFPDXBNJZSQVHLCKE';
+            const resto = numeroDNI % 23;
+            const letraCalculada = letrasPosibles.charAt(resto);
+            if (! letraProvida == letraCalculada){
+                console.log("El número de dni no es válido");
+                alert('Por favor, ingrese su dni');
+            } else {
+                salida = true;
+            }
+        }
+    }
+    return salida;
 }
