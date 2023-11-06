@@ -60,4 +60,5 @@ function comprobarDni(dni){
         }
     }
     return salida;
-}
+} 
+//if (function b (true) && function a (true)) 'formulario'.submit
