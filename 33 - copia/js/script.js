@@ -63,7 +63,7 @@ function main() {
 }
 
 function rellenaSelectAnio(anioSelect){
-    let desde = 196;
+    let desde = 1965;
     
     const actual = new Date().getFullYear();
     for (let anio = desde; anio <= actual; anio++) {
