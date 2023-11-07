@@ -1,51 +1,60 @@
 window.addEventListener('DOMContentLoaded', main);
 function main() {
-    const anioSelect = document.getElementById('year');
-    rellenaSelectAnio(anioSelect);
-
-    const nombre = document.getElementById("name");
-    if (comprobarNombre(nombre.value) == ""){
-        invalido(nombre);
-    }
-
-    const alias = document.getElementById("nick");
-    if (comprobarAlias(alias.value) == ""){
-        invalido(alias);
-    }
-
-    const contrasena = document.getElementById("pass");
-    const contrasenaV = document.getElementById("passV");
-    if (comprobarContrasena(contrasena.value, contrasenaV.value) == ""){
-        invalido(contrasena);
-        invalido(contrasenaV);
-    };
-    
-    const anyo = document.getElementById("year");
-    let seleccionadoA = anyo.options[document.querySelector("#year").selectedIndex];
-    if(comprobarAnyo(seleccionadoA.value) == ""){
-        invalido(anyo);
-    }
-    
-    let seleccionadoR = document.querySelector('input[name="sex"]:checked');
-    if(comprobarSexo(seleccionadoR) == ""){
-        const labelS = document.getElementById('labelS');
-        invalido(labelS);
-    }
-
-    let seleccionadoC = document.querySelectorAll('input[type="checkbox"]:checked');
-    if(comprobarAficiones(seleccionadoC) == ""){
-        const labelA = document.getElementById('labelA');
-        invalido(labelA);
-    }
-
-    let envio = false;
-    for (let campo of formulario) {
-       if (campo.classList != "incorrecto") envio = true;
-    }
-    if(labelS.classList == "incorrecto" && labelA.classList == "incorrecto") envio = false;
-
     const enviar = document.querySelector("#btnEnv");
-    if(envio) enviar.disabled = false;
+    comprobacionConstante();
+    const intervalo = setInterval(comprobacionConstante,5000);
+    function comprobacionConstante(){
+        let envio = false;
+        const anioSelect = document.getElementById('year');
+        rellenaSelectAnio(anioSelect);
+
+        const nombre = document.getElementById("name");
+        if (comprobarNombre(nombre.value) == ""){
+            invalido(nombre);
+        }
+
+        const alias = document.getElementById("nick");
+        if (comprobarAlias(alias.value) == ""){
+            invalido(alias);
+        }
+
+        const contrasena = document.getElementById("pass");
+        const contrasenaV = document.getElementById("passV");
+        if (comprobarContrasena(contrasena.value, contrasenaV.value) == ""){
+            invalido(contrasena);
+            invalido(contrasenaV);
+        };
+        
+        const anyo = document.getElementById("year");
+        let seleccionadoA = anyo.options[document.querySelector("#year").selectedIndex];
+        if(comprobarAnyo(seleccionadoA.value) == ""){
+            invalido(anyo);
+        }
+        
+        let seleccionadoR = document.querySelector('input[name="sex"]:checked');
+        if(comprobarSexo(seleccionadoR) == ""){
+            const labelS = document.getElementById('labelS');
+            invalido(labelS);
+        }
+
+        let seleccionadoC = document.querySelectorAll('input[type="checkbox"]:checked');
+        if(comprobarAficiones(seleccionadoC) == ""){
+            const labelA = document.getElementById('labelA');
+            invalido(labelA);
+        }
+
+    
+        for (let campo of formulario) {
+        if (campo.classList != "incorrecto") envio = true;
+        }
+        if(labelS.classList == "incorrecto" && labelA.classList == "incorrecto") envio = false;
+
+      
+        if(envio){ 
+            enviar.disabled = false;
+            clearInterval(intervalo);
+        }
+    }
     
     enviar.addEventListener("click", function(){
         const formulario = document.getElementById('formulario');
