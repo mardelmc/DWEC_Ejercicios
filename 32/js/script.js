@@ -2,33 +2,43 @@ window.addEventListener('DOMContentLoaded', main);
 function main() {
     const enviar = document.querySelector("#btnEnv");
     enviar.addEventListener("click", function(){
-        let telefV = document.getElementById('telp');
-        let telef = comprobarTelefono((telefV.value));
-        if (telef === ""){
-            telefV.classList.add("incorrecto");
-        } else {
-            telefV.classList.remove("incorrecto");
-        };
+        const telef = document.getElementById("telp");
+        if (comprobarTelefono(telef.value) == ""){
+            invalido(telef); 
+        }
 
-        /*
-        const dni = document.getElementById('dni');
-        comprobarDni(dni);
+        const dni = document.getElementById("dni");
+        if (comprobarDni(dni.value) == ""){
+            invalido(dni); 
+        }
 
-        const email = document.getElementById('mail');
-        comprobarEmail(email);*/ //--> sin terminar
+        const correo = document.getElementById("mail");
+        if (comprobarCorreo(correo.value) == ""){
+            invalido(correo); 
+        }
 
-        //si todo pasa la comprobacion de que no tiene ninguna clase de incorrecto,
-        //el formulario se envia
+
         const formulario = document.getElementById('formulario');
-        if (telefV.classList != "incorrecto"/*y las demas*/) formulario.submit();
+        let envio = true;
+        for (let campo of formulario) {
+            if (campo.classList != "incorrecto") envio = false;
+        }
+        if (envio) formulario.submit();
 
     });
     const limpiar = document.querySelector('#btnLim');
     limpiar.addEventListener("click",function(){
-        let telefV = document.getElementById('telp');
-        telefV.classList.remove("incorrecto");
+        const formulario = document.querySelector("#formulario");
+        for (let campo of formulario) {
+            campo.classList.remove("incorrecto");
+        }
     })
 }
+
+function invalido(nodo){
+    nodo.classList.add("incorrecto");
+}
+
 
 function comprobarTelefono(telef){
     let salidaTelef = "";
@@ -44,36 +54,37 @@ function comprobarTelefono(telef){
 }
 
 function comprobarDni(dni){
-  let salida = false;
-    if(!dni.textContent == ""){
-        const dniRegex = /^(\d{8})([A-Z])$/; 
-        if (dniRegex.test(dni)) {
-            const numeroDNI = dni.substring(0, 8); 
-            const letraProvida = dni.charAt(8);
-            const letrasPosibles = 'TRWAGMYFPDXBNJZSQVHLCKE';
-            const resto = numeroDNI % 23;
-            const letraCalculada = letrasPosibles.charAt(resto);
-            if (! letraProvida == letraCalculada){
-                console.log("El número de dni no es válido");
-                alert('Por favor, ingrese su dni');
-            } else {
-                salida = true;
-            }
+  let salida = "";
+    if(dni == "") salida = "";
+    
+    const dniRegex = /^(\d{8})([A-Z])$/; 
+    if (dniRegex.test(dni)) {
+        const numeroDNI = dni.substring(0, 8); 
+        const letraProvida = dni.charAt(8);
+        const letrasPosibles = 'TRWAGMYFPDXBNJZSQVHLCKE';
+        const resto = numeroDNI % 23;
+        const letraCalculada = letrasPosibles.charAt(resto);
+        if (! letraProvida == letraCalculada){
+            salida = ""
+        } else {
+            salida = dni;
         }
     }
+
     return salida;
 }
 
-function comprobarEmail(email){
-  
-    if(!email.textContent == ""){
+function comprobarCorreo(email) {
+    let salida = "";
+
+    if (email === "") {
+        salida = "";
+    } else {
         const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-        if (!emailRegex.test(email)) {
-            console.log("El correo electrónico no es válido");
-            alert('Por favor, ingrese su email');
+        if (emailRegex.test(email)) {
+            salida = email;
         }
     }
+
+    return salida;
 }
-
-
-//if (function b (true) && function a (true)) 'formulario'.submit
