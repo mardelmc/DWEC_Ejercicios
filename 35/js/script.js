@@ -1,7 +1,9 @@
 window.addEventListener('DOMContentLoaded', main);
 function main() {
     const enviar = document.querySelector("#btnEnv");
-    comprobacionConstante();
+    const anioSelect = document.getElementById('year');
+    rellenaSelectAnio(anioSelect);
+
     const intervalo = setInterval(comprobacionConstante,5000);
     function comprobacionConstante(){
         const formulario = document.querySelector("#formulario");
@@ -10,11 +12,10 @@ function main() {
 
         for (let campo of formulario) {
             if (campo.classList == "incorrecto") envio = false;
-            }
-            if(labelS.classList == "incorrecto" && labelA.classList == "incorrecto") envio = false;
-
-        const anioSelect = document.getElementById('year');
-        rellenaSelectAnio(anioSelect);
+        }
+        
+        if(labelS.classList == "incorrecto" && labelS.classList == "incorrecto") envio = false;
+        
 
         const nombre = document.getElementById("name");
         if (comprobarNombre(nombre.value) == ""){
