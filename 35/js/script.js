@@ -4,7 +4,15 @@ function main() {
     comprobacionConstante();
     const intervalo = setInterval(comprobacionConstante,5000);
     function comprobacionConstante(){
-        let envio = false;
+        const formulario = document.querySelector("#formulario");
+        limpiar(formulario);
+        let envio = true;
+
+        for (let campo of formulario) {
+            if (campo.classList == "incorrecto") envio = false;
+            }
+            if(labelS.classList == "incorrecto" && labelA.classList == "incorrecto") envio = false;
+
         const anioSelect = document.getElementById('year');
         rellenaSelectAnio(anioSelect);
 
@@ -44,10 +52,7 @@ function main() {
         }
 
     
-        for (let campo of formulario) {
-        if (campo.classList != "incorrecto") envio = true;
-        }
-        if(labelS.classList == "incorrecto" && labelA.classList == "incorrecto") envio = false;
+       
 
       
         if(envio){ 
@@ -60,15 +65,20 @@ function main() {
         const formulario = document.getElementById('formulario');
         formulario.submit();
     });
+
     const limpiar = document.querySelector('#btnLim');
     limpiar.addEventListener("click",function(){
         const formulario = document.querySelector("#formulario");
-        for (let campo of formulario) {
-            campo.classList.remove("incorrecto");
-        }
-        const labelS = document.getElementById('labelS').classList.remove("incorrecto");
-        const labelA = document.getElementById('labelA').classList.remove("incorrecto");
+        limpiar(formulario);
     })
+}
+
+function limpiar(formulario){
+    for (let campo of formulario) {
+        campo.classList.remove("incorrecto");
+    }
+    const labelS = document.getElementById('labelS').classList.remove("incorrecto");
+    const labelA = document.getElementById('labelA').classList.remove("incorrecto");
 }
 
 function rellenaSelectAnio(anioSelect){

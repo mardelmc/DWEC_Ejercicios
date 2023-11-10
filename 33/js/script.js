@@ -1,55 +1,55 @@
 window.addEventListener('DOMContentLoaded', main);
 function main() {
-    const anioSelect = document.getElementById('year');
-    rellenaSelectAnio(anioSelect);
+    const añoSelect = document.getElementById('year');
+    rellenaSelectaño(añoSelect);
 
 
     const enviar = document.querySelector("#btnEnv");
     enviar.addEventListener("click", function(){
 
-    const nombre = document.getElementById("name");
-    if (comprobarNombre(nombre.value) == ""){
-        invalido(nombre);
-    }
+        const nombre = document.getElementById("name");
+        if (comprobarNombre(nombre.value) == ""){
+            invalido(nombre);
+        }
 
-    const alias = document.getElementById("nick");
-    if (comprobarAlias(alias.value) == ""){
-        invalido(alias);
-    }
+        const alias = document.getElementById("nick");
+        if (comprobarAlias(alias.value) == ""){
+            invalido(alias);
+        }
 
-    const contrasena = document.getElementById("pass");
-    const contrasenaV = document.getElementById("passV");
-    if (comprobarContrasena(contrasena.value, contrasenaV.value) == ""){
-        invalido(contrasena);
-        invalido(contrasenaV);
-    };
-    
-    const anyo = document.getElementById("year");
-    let seleccionadoA = anyo.options[document.querySelector("#year").selectedIndex];
-    if(comprobarAnyo(seleccionadoA.value) == ""){
-        invalido(anyo);
-    }
-    
-    let seleccionadoR = document.querySelector('input[name="sex"]:checked');
-    if(comprobarSexo(seleccionadoR) == ""){
-        const labelS = document.getElementById('labelS');
-        invalido(labelS);
-    }
+        const contraseña = document.getElementById("pass");
+        const contraseñaV = document.getElementById("passV");
+        if (comprobarContraseña(contraseña.value, contraseñaV.value) == ""){
+            invalido(contraseña);
+            invalido(contraseñaV);
+        };
+        
+        const año = document.getElementById("year");
+        let seleccionadoA = año.options[document.querySelector("#year").selectedIndex];
+        if(comprobarAño(seleccionadoA.value) == ""){
+            invalido(año);
+        }
+        
+        let seleccionadoR = document.querySelector('input[name="sex"]:checked');
+        if(comprobarSexo(seleccionadoR) == ""){
+            const labelS = document.getElementById('labelS');
+            invalido(labelS);
+        }
 
-    let seleccionadoC = document.querySelectorAll('input[type="checkbox"]:checked');
-    if(comprobarAficiones(seleccionadoC) == ""){
-        const labelA = document.getElementById('labelA');
-        invalido(labelA);
-    }
+        let seleccionadoC = document.querySelectorAll('input[type="checkbox"]:checked');
+        if(comprobarAficiones(seleccionadoC) == ""){
+            const labelA = document.getElementById('labelA');
+            invalido(labelA);
+        }
 
 
-    const formulario = document.getElementById('formulario');
-    let envio = false;
-    for (let campo of formulario) {
-       if (campo.classList != "incorrecto") envio = true;
-    }
-    if(labelS.classList == "incorrecto" && labelA.classList == "incorrecto") envio = false;
-    if (envio) formulario.submit();
+        const formulario = document.getElementById('formulario');
+        let envio = true;
+        for (let campo of formulario) {
+        if (campo.classList == "incorrecto") envio = false;
+        }
+        if(labelS.classList == "incorrecto" && labelA.classList == "incorrecto") envio = false;
+        if (envio) formulario.submit();
     });
     const limpiar = document.querySelector('#btnLim');
     limpiar.addEventListener("click",function(){
@@ -62,16 +62,16 @@ function main() {
     })
 }
 
-function rellenaSelectAnio(anioSelect){
+function rellenaSelectaño(añoSelect){
     let desde = 1965;
     
     const actual = new Date().getFullYear();
-    for (let anio = desde; anio <= actual; anio++) {
+    for (let año = desde; año <= actual; año++) {
         const option = document.createElement('option');
-        option.value = anio;
-        option.textContent = anio;
-        option.id = anio;
-        anioSelect.appendChild(option);
+        option.value = año;
+        option.textContent = año;
+        option.id = año;
+        añoSelect.appendChild(option);
     }
 }
 
@@ -83,16 +83,20 @@ function comprobarAlias(alias){
     if (alias == "") return "";
 }
 
-function comprobarContrasena(contrasena, contrasenaV){
-    if (contrasena == "" && contrasenaV == "" && contrasena != contrasenaV) {
+/*
+    Con dos contraseñas como parametro, comprueban que están vacías y que no son iguales para devolver "";
+    sino se devuelve la contraseña.
+*/
+function comprobarContraseña(contraseña, contraseñaV){
+    if (contraseña == "" && contraseñaV == "" && contraseña != contraseñaV) {
         return "";
     } else {
-        return contrasena;
+        return contraseña;
     }
 }
 
-function comprobarAnyo(anyo){
-    if (anyo == "") return "";
+function comprobarAño(año){
+    if (año == "") return "";
 }
 
 function comprobarSexo(sexo){
