@@ -3,36 +3,42 @@ function main() {
     const enviar = document.querySelector("#btnEnv");
     enviar.addEventListener("click", function(){
         const telef = document.getElementById("telp");
-        if (comprobarTelefono(telef.value) == ""){
-            invalido(telef); 
-        }
+        comprobarCampo(telef, comprobarTelefono);
 
         const dni = document.getElementById("dni");
-        if (comprobarDni(dni.value) == ""){
-            invalido(dni); 
-        }
+        comprobarCampo(dni, comprobarDni);
 
         const correo = document.getElementById("mail");
-        if (comprobarCorreo(correo.value) == ""){
-            invalido(correo); 
-        }
-
+        comprobarCampo(correo, comprobarCorreo);
 
         const formulario = document.getElementById('formulario');
-        let envio = true;
-        for (let campo of formulario) {
-            if (campo.classList != "incorrecto") envio = false;
-        }
-        if (envio) formulario.submit();
 
+        const camposIncorrectos = formulario.querySelectorAll('.incorrecto');
+        if (camposIncorrectos.length === 0) {
+            formulario.submit();
+        }
     });
+
     const limpiar = document.querySelector('#btnLim');
-    limpiar.addEventListener("click",function(){
+    limpiar.addEventListener("click", function () {
         const formulario = document.querySelector("#formulario");
         for (let campo of formulario) {
             campo.classList.remove("incorrecto");
         }
-    })
+        enviar.disabled = true;
+    });
+
+
+    enviar.disabled = true;
+
+    const formInputs = document.querySelectorAll("#formulario input");
+    formInputs.forEach(input => {
+    input.addEventListener("input", function () {
+        const camposIncorrectos = document.querySelectorAll('#formulario .incorrecto');
+        enviar.disabled = camposIncorrectos.length === 0; // Activa el botón solo si no hay campos incorrectos
+    });
+});
+
 }
 
 function invalido(nodo){
