@@ -51,10 +51,6 @@ function main() {
             const labelA = document.getElementById('labelA');
             invalido(labelA);
         }
-
-    
-       
-
       
         if(envio){ 
             enviar.disabled = false;

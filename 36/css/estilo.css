@@ -1,0 +1,13 @@
+form{
+    width: 50%;
+    margin: 2% auto;
+  
+}
+fieldset{
+    background-color: lightgreen;
+}
+
+.incorrecto{
+    background-color: rgba(255, 0, 0, 0.348);
+    border: red solid 1px;
+}
