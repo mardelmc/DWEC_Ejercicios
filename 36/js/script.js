@@ -2,7 +2,6 @@ window.addEventListener('DOMContentLoaded', main);
 function main() {
     const anioSelect = document.getElementById('year');
     rellenaSelectanio(anioSelect);
-    let guardados = [];
 
     const enviar = document.querySelector("#btnEnv");
     enviar.addEventListener("click", function(){
@@ -54,9 +53,17 @@ function main() {
         if(labelS.classList == "incorrecto" && labelA.classList == "incorrecto") envio = false;
         if (envio) {
             alert("enviado");
-            guardados = [nombre.value, alias.value, contrasenia.value, anio.value, seleccionadoR.value, seleccionadoC];
+            mandarGalleta("nombre",nombre.value);
+            mandarGalleta("alias",alias.value);
+            mandarGalleta("contrasenia",contrasenia.value);
+            mandarGalleta("anio",anio.value);
+            mandarGalleta("seleccionadoR",seleccionadoR.value);
+            let strSeleccionadoC = "";
+            for (let i = 0; i < seleccionadoC.length; i++){
+                strSeleccionadoC += seleccionadoC[i].value + ","
+            }
+            mandarGalleta("seleccionadoC",strSeleccionadoC);
         }
-    
 
     });
     const btnlimpiar = document.querySelector('#btnLim');
@@ -93,10 +100,6 @@ function comprobarAlias(alias){
     if (alias == "") return "";
 }
 
-/*
-    Con dos contrasenias como parametro, comprueban que están vacías y que no son iguales para devolver "";
-    sino se devuelve la contrasenia.
-*/
 function comprobarContrasenia(contrasenia, contraseniaV){
     if (contrasenia == "" && contraseniaV == "" && contrasenia != contraseniaV) {
         return "";
@@ -149,11 +152,18 @@ function rellenar(guardados) {
     }
 
     for (let i = 0; i < seleccionadoC.length; i++) {
-        for (let j = 0; j < guardados[5].length; j++)
+        for (let j = 0; j < guardados[5].length; j++){
             if (seleccionadoC[i].value == guardados[5][j].value){
                 let seleccion = seleccionadoC[i];
                 seleccion.checked = true;
             }
+        }
     }
 
 }
+function mandarGalleta(nombre, valor, caducidad)
+{
+ document.cookie = nombre + "=" + escape(valor)
+ + ((caducidad == null) ? "" : ("; expires=" +
+ caducidad.toGMTString()))
+} 
