@@ -2,6 +2,7 @@ window.addEventListener('DOMContentLoaded', main);
 function main() {
     const anioSelect = document.getElementById('year');
     rellenaSelectanio(anioSelect);
+    let guardados = [];
 
     const enviar = document.querySelector("#btnEnv");
     enviar.addEventListener("click", function(){
@@ -53,6 +54,8 @@ function main() {
         if(labelS.classList == "incorrecto" && labelA.classList == "incorrecto") envio = false;
         if (envio) {
             alert("enviado");
+            //formulario.submit();
+            guardados = [nombre.value, alias.value, contrasenia.value, anio.value, seleccionadoR.value, seleccionadoC];
             mandarGalleta("nombre",nombre.value);
             mandarGalleta("alias",alias.value);
             mandarGalleta("contrasenia",contrasenia.value);

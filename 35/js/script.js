@@ -4,8 +4,6 @@ function main() {
     const anioSelect = document.getElementById('year');
     rellenaSelectAnio(anioSelect);
 
-    const intervalo = setInterval(comprobacionConstante,5000);
-    function comprobacionConstante(){
         const formulario = document.querySelector("#formulario");
         limpiar(formulario);
         let envio = true;
@@ -18,12 +16,12 @@ function main() {
         
 
         const nombre = document.getElementById("name");
-        if (comprobarNombre(nombre.value) == ""){
+        if (nombre.value == ""){
             invalido(nombre);
         }
 
         const alias = document.getElementById("nick");
-        if (comprobarAlias(alias.value) == ""){
+        if (alias.value == ""){
             invalido(alias);
         }
 
@@ -54,9 +52,8 @@ function main() {
       
         if(envio){ 
             enviar.disabled = false;
-            clearInterval(intervalo);
         }
-    }
+    
     
     enviar.addEventListener("click", function(){
         const formulario = document.getElementById('formulario');
@@ -68,8 +65,8 @@ function main() {
         const formulario = document.querySelector("#formulario");
         limpiar(formulario);
     })
-}
 
+}
 function limpiar(formulario){
     for (let campo of formulario) {
         campo.classList.remove("incorrecto");
@@ -91,13 +88,6 @@ function rellenaSelectAnio(anioSelect){
     }
 }
 
-function comprobarNombre(nombre){
-    if (nombre == "") return "";
-}
-
-function comprobarAlias(alias){
-    if (alias == "") return "";
-}
 
 function comprobarContrasena(contrasena, contrasenaV){
     if (contrasena == "" && contrasenaV == "" && contrasena != contrasenaV) {
