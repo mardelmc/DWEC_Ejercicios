@@ -168,6 +168,7 @@ console.log('autocompleta');
         }
     }
 }
+
 function mandarGalleta(nombre, valores){
     document.cookie = `${nombre}=${valores}`;
 console.log(valores);

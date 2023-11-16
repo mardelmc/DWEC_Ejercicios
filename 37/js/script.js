@@ -1,37 +1,32 @@
 window.addEventListener('DOMContentLoaded', main);
 function main() {
-    mandarGalleta("usuario", "maria");
-    mandarGalleta("contrasenia", "1234");
+    mandarGalleta("maria", "1234");
+    mandarGalleta("estudiante", "oretania");
 
     const enviar = document.querySelector("#btnEnv");
     enviar.addEventListener("click", function(){
-        const nombre = document.getElementById("name");
-        if (nombre.value == ""){
+        const nombre = document.querySelector("#name");
+        const contrasenia = document.querySelector("#pass");
+        if (nombre.value == "" || consultarGalleta(nombre.value) == ""){
             invalido(nombre);
-        } else {
-            if (nombre.value != consultarGalleta("usuario")){
-                alert("Nombre invalido");
-                invalido(nombre);
-            }
+            return false;
         }
-        const contrasenia = document.getElementById("pass");
-        if (contrasenia.value == ""){
+      
+        if (contrasenia.value == "" || contrasenia.value != consultarGalleta(nombre.value)){
+            console.log(contrasenia.value);
+            console.log(consultarGalleta(nombre.value));
             invalido(contrasenia);
-        } else {
-            if (contrasenia.value != consultarGalleta("contrasenia")){
-                alert("Contraseña invalida");
-                invalido(contrasenia);
-            }
-        }
+            return false;
+        } 
 
 
-        const formulario = document.getElementById('formulario');
+        const formulario = document.querySelector('#formulario');
         let envio = true;
         for (let campo of formulario) {
             if (campo.classList == "incorrecto") envio = false;
         }
         if (envio) {
-            //window.open("https://google.es");
+            window.open("https://google.es");
             //formulario.submit();
         }
     });
@@ -49,25 +44,14 @@ function invalido(nodo){
     nodo.classList.add("incorrecto");
 }
 
-function mandarGalleta(nombre, valor, caducidad)
-{
- document.cookie = nombre + "=" + escape(valor)
- + ((caducidad == null) ? "" : ("; expires=" +
- caducidad.toGMTString()))
+function mandarGalleta(nombre, valores){
+    document.cookie = `${nombre}=${valores}`;
+console.log(valores);
 } 
 
-function consultarGalleta(nombre) {
-    var buscamos = nombre + "=";
-    if (document.cookie.length > 0){ 
-        i = document.cookie.indexOf(buscamos);
-        if (i != -1) {
-            i += buscamos.length;
-            j = document.cookie.indexOf(";", i);
-            if (j == -1){
-                j = document.cookie.length;
-                return unescape(document.cookie.substring(i,j));
-                
-            }
-        }
-    }
+function consultarGalleta(nombre){
+    let galletitas = document.cookie.split('; ');
+    let cookieEncontrada = galletitas.find(galleta => galleta.startsWith(nombre + '='));
+    
+    return cookieEncontrada ? cookieEncontrada.split('=')[1] : '';
 }
