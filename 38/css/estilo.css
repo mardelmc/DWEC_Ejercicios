@@ -1,15 +1,15 @@
-body{
-    background: linear-gradient(to bottom, rgb(207, 174, 91), rgb(223, 200, 173));
+ html{
+    background: linear-gradient(to bottom, rgb(216, 173, 123), #a87444);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 35em;
+    height: 100%;
     font-family: Arial, Helvetica, sans-serif;
 }
 .tabla{
-    background: linear-gradient(to bottom, bisque, white);
-    width: 60%;
+    background: linear-gradient(to bottom, #f1e0c5, #d6ae72);
+    width: 70%;
     margin: 10% auto;
-    padding: 2%;
+    padding: 3%;
     color: rgb(54, 0, 0);
 
 }
@@ -20,12 +20,11 @@ main{
 article{
     width: 80%;
 }
-figure{
-    
-}
-.provincias{
+
+#provincias{
     display: grid;
-    gri
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(4, 1fr);
 }
 aside{
     width: 20%;
@@ -37,7 +36,7 @@ h4{
 }
 footer{
     padding: 2% 0;
-    color: rgb(170, 170, 124);
+    color: rgba(54, 0, 0, 0.61);
 }
 footer>p{
     padding: 0;
@@ -46,4 +45,8 @@ footer>p{
 fieldset{
     display: flex;
     justify-content: space-between;
+}
+img{
+    width: 30%;
+    margin: auto 50%;
 }
