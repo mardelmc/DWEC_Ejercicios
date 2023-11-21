@@ -3,6 +3,7 @@ function main() {
     const pueblo = document.querySelector('#pueblo');
     const provincias = prepararDatos();
     pueblo.addEventListener('change', function(){
+        console.log("E");
         for (const provincia in provincias) {
             if (provincias.hasOwnProperty(provincia)) {
               if (provincias[provincia].includes(pueblo)) {
