@@ -1,7 +1,7 @@
 window.addEventListener('DOMContentLoaded', main);
 function main() {
     const pueblo = document.querySelector('#pueblo');
-    const provincias = prepararDatos();
+    const provincias = prepararProvincias();
     pueblo.addEventListener('change', function(){
         console.log("E");
         for (const provincia in provincias) {
@@ -9,12 +9,11 @@ function main() {
             if (provincias.hasOwnProperty(provincia)) {
               if (provincias[provincia].includes(pueblo)) {
                 let provinciaSeleccionada = provincia;
-                
                 seleccionarProvincia(provinciaSeleccionada);
               }
             }
         }
-        
+
     });
 }
 
@@ -32,20 +31,21 @@ function cambiarEscudo(provincia){
     imagen.src = escudos[provincia];
     if (imagen.src == undefined) imagen.src = 'img/Escudo_de_Andalucía.svg';
 }
+
 function seleccionarProvincia(provincia){
     provincia = provincia.toLowerCase();
     provincia = removeAccents(provincia);
     console.log(provincia);
     let seleccionadoC = document.querySelectorAll('input[type="checkbox"]');
     for (let i = 0; i < seleccionadoC.length; i++) {
-        if (seleccionadoC[i].value == provincia){
+        if (seleccionadoC[i].id == provincia){
             let seleccion = seleccionadoC[i];
             seleccion.checked = true;
         }
     }
 }
 
-function prepararDatos(){
+function prepararProvincias(){
     const PROVINCIAS = {
         'Jaén': ['Albanchez de Mágina', 'Alcalá la Real', 'Alcaudete', 'Aldeaquemada', 'Andújar', 'Arjona', 'Arjonilla', 'Arquillos', 'Arroyo del Ojanco', 'Baeza', 'Bailén', 'Baños de la Encina', 'Beas de Segura', 'Bedmar y Garcíez', 'Begíjar', 'Benatae', 'Cabra del Santo Cristo', 'Cambil', 'Campillo de Arenas', 'Canena', 'Carboneros', 'Cárcheles', 'Carolina', 'Castellar', 'Castillo de Locubín', 'Cazalilla', 'Cazorla', 'Chiclana de Segura', 'El Castellar', 'Escañuela', 'Espelúy', 'Frailes', 'Fuensanta de Martos', 'Fuerte del Rey', 'Génave', 'Guardia de Jaén', 'Guarromán', 'Higuera de Calatrava', 'Hinojares', 'Hornos', 'Huelma', 'Huesa', 'Ibros', 'Iruela', 'Iznatoraf', 'Jabalquinto', 'Jaén', 'Jamilena', 'Jimena', 'Jódar', 'La Carolina', 'La Guardia', 'La Iruela', 'Lahiguera', 'Larva', 'Linares', 'Lopera', 'Lupión', 'Mancha Real', 'Marmolejo', 'Martos', 'Mengíbar', 'Montizón', 'Navas de San Juan', 'Noalejo', 'Orcera', 'Peal de Becerro', 'Pegalajar', 'Porcuna', 'Pozo Alcón', 'Puente de Génave', 'Puerta de Segura', 'Quesada', 'Rus', 'Sabiote', 'Santa Elena', 'Santiago de Calatrava', 'Santiago-Pontones', 'Santisteban del Puerto', 'Santo Tomé', 'Segura de la Sierra', 'Siles', 'Sorihuela del Guadalimar', 'Torre del Campo', 'Torreblascopedro', 'Torredonjimeno', 'Torreperogil', 'Torres', 'Torres de Albánchez', 'Úbeda', 'Valdepeñas de Jaén', 'Vilches', 'Villacarrillo', 'Villanueva de la Reina', 'Villanueva del Arzobispo', 'Villardompardo', 'Villares', 'Villarrodrigo', 'Villatorres'],
         'Córdoba': ['Adamuz', 'Aguilar de la Frontera', 'Alcaracejos', 'Almedinilla', 'Almodóvar del Río', 'Añora', 'Baena', 'Belalcázar', 'Belmez', 'Benamejí', 'Blázquez', 'Bujalance', 'Cabra', 'Cañete de las Torres', 'Carcabuey', 'Cardeña', 'Carlota', 'Carpio', 'Castro del Río', 'Conquista', 'Córdoba', 'Doña Mencía', 'Dos Torres', 'Encinas Reales', 'Espejo', 'Espiel', 'Fernán-Núñez', 'Fuente Carreteros', 'Fuente la Lancha', 'Fuente Obejuna', 'Fuente Palmera', 'Fuente-Tójar', 'Granjuela', 'Guadalcázar', 'Guijo', 'Hinojosa del Duque', 'Hornachuelos', 'Iznájar', 'Lucena', 'Luque', 'Montalbán de Córdoba', 'Montemayor', 'Montilla', 'Montoro', 'Monturque', 'Moriles', 'Nueva Carteya', 'Obejo', 'Palenciana', 'Palma del Río', 'Pedro Abad', 'Pedroche', 'Peñarroya-Pueblonuevo', 'Posadas', 'Pozoblanco', 'Priego de Córdoba', 'Puente Genil', 'Rambla', 'Rute', 'San Sebastián de los Ballesteros', 'Santa Eufemia', 'Santaella', 'Torrecampo', 'Valenzuela', 'Valsequillo', 'Victoria', 'Villa del Río', 'Villafranca de Córdoba', 'Villaharta', 'Villanueva de Córdoba', 'Villanueva del Duque', 'Villanueva del Rey', 'Villaralto', 'Villaviciosa de Córdoba', 'Viso', 'Zuheros'],
