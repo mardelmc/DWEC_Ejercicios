@@ -5,10 +5,12 @@ function main() {
     pueblo.addEventListener('change', function(){
         console.log("E");
         for (const provincia in provincias) {
+            console.log(provincia);
             if (provincias.hasOwnProperty(provincia)) {
               if (provincias[provincia].includes(pueblo)) {
                 let provinciaSeleccionada = provincia;
-                selecionarProvincia(provinciaSeleccionada);
+                
+                seleccionarProvincia(provinciaSeleccionada);
               }
             }
         }
@@ -17,10 +19,23 @@ function main() {
 }
 
 function cambiarEscudo(provincia){
-    
+    let escudos = new Array();
+    escudos ['Almería'] = 'img/Escudo_de_la_provincia_de_Almería.svg';
+    escudos ['Cádiz'] = 'img/Escudo_de_la_provincia_de_Cádiz.svg';
+    escudos ['Granada'] = 'img/Escudo_de_la_provincia_de_Granada.svg';
+    escudos ['Jaén'] = 'img/Escudo_de_la_provincia_de_Jaén.svg';
+    escudos ['Málaga'] = 'img/Escudo_de_la_provincia_de_Málaga.svg';
+    escudos ['Sevilla'] = 'img/Escudo_de_la_provincia_de_Sevilla.svg';
+    escudos ['Huelva'] = 'img/Escudo_de_la_provincia_de_Huelva.svg';
+    escudos ['Córdoba'] = 'img/Escudo_de_la_provincia_de_Córdoba.svg';
+    const imagen = document.querySelector('#escudo img');
+    imagen.src = escudos[provincia];
+    if (imagen.src == undefined) imagen.src = 'img/Escudo_de_Andalucía.svg';
 }
-function selecionarProvincia(provincia){
+function seleccionarProvincia(provincia){
     provincia = provincia.toLowerCase();
+    provincia = removeAccents(provincia);
+    console.log(provincia);
     let seleccionadoC = document.querySelectorAll('input[type="checkbox"]');
     for (let i = 0; i < seleccionadoC.length; i++) {
         if (seleccionadoC[i].value == provincia){
@@ -44,3 +59,38 @@ function prepararDatos(){
     return PROVINCIAS;
 }
 
+
+
+// No es mio
+function removeAccents(text) {
+    const sustitutions = {
+      àáâãäå: "a",
+      ÀÁÂÃÄÅ: "A",
+      èéêë: "e",
+      ÈÉÊË: "E",
+      ìíîï: "i",
+      ÌÍÎÏ: "I",
+      òóôõö: "o",
+      ÒÓÔÕÖ: "O",
+      ùúûü: "u",
+      ÙÚÛÜ: "U",
+      ýÿ: "y",
+      ÝŸ: "Y",
+      ß: "ss",
+      ñ: "n",
+      Ñ: "N"
+    };
+    // Devuelve un valor si 'letter' esta incluido en la clave
+  function getLetterReplacement(letter, replacements) {
+    const findKey = Object.keys(replacements).reduce(
+      (origin, item, index) => (item.includes(letter) ? item : origin),
+      false
+    );
+    return findKey !== false ? replacements[findKey] : letter;
+  }
+  // Recorre letra por letra en busca de una sustitución
+  return text
+    .split("")
+    .map((letter) => getLetterReplacement(letter, sustitutions))
+    .join("");
+}
