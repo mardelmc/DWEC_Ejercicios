@@ -1,0 +1,4712 @@
+[
+  {
+    "state_txt": "Almería",
+    "Municipio": "Abla",
+    "Municipio ID": "04001",
+    "Población": 1247
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Abrucena",
+    "Municipio ID": "04002",
+    "Población": 1221
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Adra",
+    "Municipio ID": "04003",
+    "Población": 25300
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Albánchez",
+    "Municipio ID": "04004",
+    "Población": 735
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Alboloduy",
+    "Municipio ID": "04005",
+    "Población": 615
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Albox",
+    "Municipio ID": "04006",
+    "Población": 12087
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Alcolea",
+    "Municipio ID": "04007",
+    "Población": 831
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Alcóntar",
+    "Municipio ID": "04008",
+    "Población": 538
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Alcudia de Monteagud",
+    "Municipio ID": "04009",
+    "Población": 133
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Alhabia",
+    "Municipio ID": "04010",
+    "Población": 685
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Alhama de Almería",
+    "Municipio ID": "04011",
+    "Población": 3757
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Alicún",
+    "Municipio ID": "04012",
+    "Población": 214
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Almería",
+    "Municipio ID": "04013",
+    "Población": 199237
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Almócita",
+    "Municipio ID": "04014",
+    "Población": 201
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Alsodux",
+    "Municipio ID": "04015",
+    "Población": 129
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Antas",
+    "Municipio ID": "04016",
+    "Población": 3339
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Arboleas",
+    "Municipio ID": "04017",
+    "Población": 4532
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Armuña de Almanzora",
+    "Municipio ID": "04018",
+    "Población": 313
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Bacares",
+    "Municipio ID": "04019",
+    "Población": 240
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Balanegra",
+    "Municipio ID": "04904",
+    "Población": 2886
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Bayárcal",
+    "Municipio ID": "04020",
+    "Población": 312
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Bayarque",
+    "Municipio ID": "04021",
+    "Población": 226
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Bédar",
+    "Municipio ID": "04022",
+    "Población": 1009
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Beires",
+    "Municipio ID": "04023",
+    "Población": 138
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Benahadux",
+    "Municipio ID": "04024",
+    "Población": 4605
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Benitagla",
+    "Municipio ID": "04026",
+    "Población": 53
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Benizalón",
+    "Municipio ID": "04027",
+    "Población": 253
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Bentarique",
+    "Municipio ID": "04028",
+    "Población": 239
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Berja",
+    "Municipio ID": "04029",
+    "Población": 12807
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Canjáyar",
+    "Municipio ID": "04030",
+    "Población": 1163
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Cantoria",
+    "Municipio ID": "04031",
+    "Población": 3533
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Carboneras",
+    "Municipio ID": "04032",
+    "Población": 8210
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Castro de Filabres",
+    "Municipio ID": "04033",
+    "Población": 115
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Chercos",
+    "Municipio ID": "04036",
+    "Población": 301
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Chirivel",
+    "Municipio ID": "04037",
+    "Población": 1511
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Cóbdar",
+    "Municipio ID": "04034",
+    "Población": 160
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Cuevas del Almanzora",
+    "Municipio ID": "04035",
+    "Población": 14790
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Dalías",
+    "Municipio ID": "04038",
+    "Población": 4141
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Ejido, El",
+    "Municipio ID": "04902",
+    "Población": 87500
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Enix",
+    "Municipio ID": "04041",
+    "Población": 554
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Felix",
+    "Municipio ID": "04043",
+    "Población": 697
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Fines",
+    "Municipio ID": "04044",
+    "Población": 2161
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Fiñana",
+    "Municipio ID": "04045",
+    "Población": 1978
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Fondón",
+    "Municipio ID": "04046",
+    "Población": 1045
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Gádor",
+    "Municipio ID": "04047",
+    "Población": 3018
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Gallardos, Los",
+    "Municipio ID": "04048",
+    "Población": 2991
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Garrucha",
+    "Municipio ID": "04049",
+    "Población": 10027
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Gérgal",
+    "Municipio ID": "04050",
+    "Población": 1115
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Huécija",
+    "Municipio ID": "04051",
+    "Población": 503
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Huércal de Almería",
+    "Municipio ID": "04052",
+    "Población": 18384
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Huércal-Overa",
+    "Municipio ID": "04053",
+    "Población": 20093
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Illar",
+    "Municipio ID": "04054",
+    "Población": 456
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Instinción",
+    "Municipio ID": "04055",
+    "Población": 467
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Laroya",
+    "Municipio ID": "04056",
+    "Población": 200
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Láujar de Andarax",
+    "Municipio ID": "04057",
+    "Población": 1587
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Líjar",
+    "Municipio ID": "04058",
+    "Población": 383
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Lubrín",
+    "Municipio ID": "04059",
+    "Población": 1457
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Lucainena de las Torres",
+    "Municipio ID": "04060",
+    "Población": 595
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Lúcar",
+    "Municipio ID": "04061",
+    "Población": 803
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Macael",
+    "Municipio ID": "04062",
+    "Población": 5393
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "María",
+    "Municipio ID": "04063",
+    "Población": 1228
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Mojácar",
+    "Municipio ID": "04064",
+    "Población": 7527
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Mojonera, La",
+    "Municipio ID": "04903",
+    "Población": 8824
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Nacimiento",
+    "Municipio ID": "04065",
+    "Población": 512
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Níjar",
+    "Municipio ID": "04066",
+    "Población": 31816
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Ohanes",
+    "Municipio ID": "04067",
+    "Población": 551
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Olula de Castro",
+    "Municipio ID": "04068",
+    "Población": 192
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Olula del Río",
+    "Municipio ID": "04069",
+    "Población": 6259
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Oria",
+    "Municipio ID": "04070",
+    "Población": 2212
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Padules",
+    "Municipio ID": "04071",
+    "Población": 424
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Partaloa",
+    "Municipio ID": "04072",
+    "Población": 1003
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Paterna del Río",
+    "Municipio ID": "04073",
+    "Población": 395
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Pechina",
+    "Municipio ID": "04074",
+    "Población": 4224
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Pulpí",
+    "Municipio ID": "04075",
+    "Población": 10493
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Purchena",
+    "Municipio ID": "04076",
+    "Población": 1550
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Rágol",
+    "Municipio ID": "04077",
+    "Población": 288
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Rioja",
+    "Municipio ID": "04078",
+    "Población": 1510
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Roquetas de Mar",
+    "Municipio ID": "04079",
+    "Población": 102881
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Santa Cruz de Marchena",
+    "Municipio ID": "04080",
+    "Población": 219
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Santa Fe de Mondújar",
+    "Municipio ID": "04081",
+    "Población": 476
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Senés",
+    "Municipio ID": "04082",
+    "Población": 285
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Serón",
+    "Municipio ID": "04083",
+    "Población": 2062
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Sierro",
+    "Municipio ID": "04084",
+    "Población": 384
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Somontín",
+    "Municipio ID": "04085",
+    "Población": 445
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Sorbas",
+    "Municipio ID": "04086",
+    "Población": 2505
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Suflí",
+    "Municipio ID": "04087",
+    "Población": 203
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Tabernas",
+    "Municipio ID": "04088",
+    "Población": 4025
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Taberno",
+    "Municipio ID": "04089",
+    "Población": 949
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Tahal",
+    "Municipio ID": "04090",
+    "Población": 346
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Terque",
+    "Municipio ID": "04091",
+    "Población": 386
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Tíjola",
+    "Municipio ID": "04092",
+    "Población": 3520
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Tres Villas, Las",
+    "Municipio ID": "04901",
+    "Población": 573
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Turre",
+    "Municipio ID": "04093",
+    "Población": 4067
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Turrillas",
+    "Municipio ID": "04094",
+    "Población": 270
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Uleila del Campo",
+    "Municipio ID": "04095",
+    "Población": 812
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Urrácal",
+    "Municipio ID": "04096",
+    "Población": 371
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Velefique",
+    "Municipio ID": "04097",
+    "Población": 248
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Vélez-Blanco",
+    "Municipio ID": "04098",
+    "Población": 1925
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Vélez-Rubio",
+    "Municipio ID": "04099",
+    "Población": 6528
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Vera",
+    "Municipio ID": "04100",
+    "Población": 18224
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Viator",
+    "Municipio ID": "04101",
+    "Población": 6066
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Vícar",
+    "Municipio ID": "04102",
+    "Población": 27631
+  },
+  {
+    "state_txt": "Almería",
+    "Municipio": "Zurgena",
+    "Municipio ID": "04103",
+    "Población": 2912
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Alcalá de los Gazules",
+    "Municipio ID": 11001,
+    "Población": 5227
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Alcalá del Valle",
+    "Municipio ID": 11002,
+    "Población": 4982
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Algar",
+    "Municipio ID": 11003,
+    "Población": 1433
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Algeciras",
+    "Municipio ID": 11004,
+    "Población": 122368
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Algodonales",
+    "Municipio ID": 11005,
+    "Población": 5504
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Arcos de la Frontera",
+    "Municipio ID": 11006,
+    "Población": 30953
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Barbate",
+    "Municipio ID": 11007,
+    "Población": 22872
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Barrios, Los",
+    "Municipio ID": 11008,
+    "Población": 24069
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Benalup-Casas Viejas",
+    "Municipio ID": 11901,
+    "Población": 7160
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Benaocaz",
+    "Municipio ID": 11009,
+    "Población": 695
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Bornos",
+    "Municipio ID": 11010,
+    "Población": 7607
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Bosque, El",
+    "Municipio ID": 11011,
+    "Población": 2209
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Cádiz",
+    "Municipio ID": 11012,
+    "Población": 113066
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Castellar de la Frontera",
+    "Municipio ID": 11013,
+    "Población": 3043
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Chiclana de la Frontera",
+    "Municipio ID": 11015,
+    "Población": 87493
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Chipiona",
+    "Municipio ID": 11016,
+    "Población": 19592
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Conil de la Frontera",
+    "Municipio ID": 11014,
+    "Población": 23497
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Espera",
+    "Municipio ID": 11017,
+    "Población": 3820
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Gastor, El",
+    "Municipio ID": 11018,
+    "Población": 1699
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Grazalema",
+    "Municipio ID": 11019,
+    "Población": 2005
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Jerez de la Frontera",
+    "Municipio ID": 11020,
+    "Población": 212730
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Jimena de la Frontera",
+    "Municipio ID": 11021,
+    "Población": 6681
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Línea de la Concepción, La",
+    "Municipio ID": 11022,
+    "Población": 63271
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Medina-Sidonia",
+    "Municipio ID": 11023,
+    "Población": 11739
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Olvera",
+    "Municipio ID": 11024,
+    "Población": 7974
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Paterna de Rivera",
+    "Municipio ID": 11025,
+    "Población": 5451
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Prado del Rey",
+    "Municipio ID": 11026,
+    "Población": 5647
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Puerto de Santa María, El",
+    "Municipio ID": 11027,
+    "Población": 89435
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Puerto Real",
+    "Municipio ID": 11028,
+    "Población": 41963
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Puerto Serrano",
+    "Municipio ID": 11029,
+    "Población": 6971
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Rota",
+    "Municipio ID": 11030,
+    "Población": 29491
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "San Fernando",
+    "Municipio ID": 11031,
+    "Población": 94120
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "San José del Valle",
+    "Municipio ID": 11902,
+    "Población": 4453
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "San Mart¡n del Tesorillo",
+    "Municipio ID": 11903,
+    "Población": 2797
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "San Roque",
+    "Municipio ID": 11033,
+    "Población": 33018
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Sanlúcar de Barrameda",
+    "Municipio ID": 11032,
+    "Población": 69727
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Setenil de las Bodegas",
+    "Municipio ID": 11034,
+    "Población": 2675
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Tarifa",
+    "Municipio ID": 11035,
+    "Población": 18564
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Torre Alháquime",
+    "Municipio ID": 11036,
+    "Población": 803
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Trebujena",
+    "Municipio ID": 11037,
+    "Población": 7010
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Ubrique",
+    "Municipio ID": 11038,
+    "Población": 16383
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Vejer de la Frontera",
+    "Municipio ID": 11039,
+    "Población": 12656
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Villaluenga del Rosario",
+    "Municipio ID": 11040,
+    "Población": 462
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Villamartín",
+    "Municipio ID": 11041,
+    "Población": 12095
+  },
+  {
+    "state_txt": "Cádiz",
+    "Municipio": "Zahara",
+    "Municipio ID": 11042,
+    "Población": 1371
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Adamuz",
+    "Municipio ID": 14001,
+    "Población": 4125
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Aguilar de la Frontera",
+    "Municipio ID": 14002,
+    "Población": 13318
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Alcaracejos",
+    "Municipio ID": 14003,
+    "Población": 1493
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Almedinilla",
+    "Municipio ID": 14004,
+    "Población": 2350
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Almodóvar del Río",
+    "Municipio ID": 14005,
+    "Población": 8093
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Añora",
+    "Municipio ID": 14006,
+    "Población": 1509
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Baena",
+    "Municipio ID": 14007,
+    "Población": 18764
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Belalcázar",
+    "Municipio ID": 14008,
+    "Población": 3166
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Belmez",
+    "Municipio ID": 14009,
+    "Población": 2862
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Benamejí",
+    "Municipio ID": 14010,
+    "Población": 4974
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Blázquez, Los",
+    "Municipio ID": 14011,
+    "Población": 661
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Bujalance",
+    "Municipio ID": 14012,
+    "Población": 7257
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Cabra",
+    "Municipio ID": 14013,
+    "Población": 20097
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Cañete de las Torres",
+    "Municipio ID": 14014,
+    "Población": 2859
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Carcabuey",
+    "Municipio ID": 14015,
+    "Población": 2367
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Cardeña",
+    "Municipio ID": 14016,
+    "Población": 1455
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Carlota, La",
+    "Municipio ID": 14017,
+    "Población": 14324
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Carpio, El",
+    "Municipio ID": 14018,
+    "Población": 4353
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Castro del Río",
+    "Municipio ID": 14019,
+    "Población": 7711
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Conquista",
+    "Municipio ID": 14020,
+    "Población": 380
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Córdoba",
+    "Municipio ID": 14021,
+    "Población": 319515
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Doña Mencía",
+    "Municipio ID": 14022,
+    "Población": 4583
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Dos Torres",
+    "Municipio ID": 14023,
+    "Población": 2402
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Encinas Reales",
+    "Municipio ID": 14024,
+    "Población": 2266
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Espejo",
+    "Municipio ID": 14025,
+    "Población": 3245
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Espiel",
+    "Municipio ID": 14026,
+    "Población": 2423
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Fernán-Núñez",
+    "Municipio ID": 14027,
+    "Población": 9646
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Fuente Carreteros",
+    "Municipio ID": 14901,
+    "Población": 1109
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Fuente la Lancha",
+    "Municipio ID": 14028,
+    "Población": 329
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Fuente Obejuna",
+    "Municipio ID": 14029,
+    "Población": 4462
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Fuente Palmera",
+    "Municipio ID": 14030,
+    "Población": 9879
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Fuente-Tójar",
+    "Municipio ID": 14031,
+    "Población": 663
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Granjuela, La",
+    "Municipio ID": 14032,
+    "Población": 414
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Guadalcázar",
+    "Municipio ID": 14033,
+    "Población": 1552
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Guijarrosa, La",
+    "Municipio ID": 14902,
+    "Población": 1341
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Guijo, El",
+    "Municipio ID": 14034,
+    "Población": 344
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Hinojosa del Duque",
+    "Municipio ID": 14035,
+    "Población": 6640
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Hornachuelos",
+    "Municipio ID": 14036,
+    "Población": 4450
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Iznájar",
+    "Municipio ID": 14037,
+    "Población": 4002
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Lucena",
+    "Municipio ID": 14038,
+    "Población": 42645
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Luque",
+    "Municipio ID": 14039,
+    "Población": 2926
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Montalbán de Córdoba",
+    "Municipio ID": 14040,
+    "Población": 4494
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Montemayor",
+    "Municipio ID": 14041,
+    "Población": 3869
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Montilla",
+    "Municipio ID": 14042,
+    "Población": 22490
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Montoro",
+    "Municipio ID": 14043,
+    "Población": 9203
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Monturque",
+    "Municipio ID": 14044,
+    "Población": 1933
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Moriles",
+    "Municipio ID": 14045,
+    "Población": 3673
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Nueva Carteya",
+    "Municipio ID": 14046,
+    "Población": 5347
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Obejo",
+    "Municipio ID": 14047,
+    "Población": 2054
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Palenciana",
+    "Municipio ID": 14048,
+    "Población": 1461
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Palma del Río",
+    "Municipio ID": 14049,
+    "Población": 20810
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Pedro Abad",
+    "Municipio ID": 14050,
+    "Población": 2809
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Pedroche",
+    "Municipio ID": 14051,
+    "Población": 1481
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Peñarroya-Pueblonuevo",
+    "Municipio ID": 14052,
+    "Población": 10419
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Posadas",
+    "Municipio ID": 14053,
+    "Población": 7267
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Pozoblanco",
+    "Municipio ID": 14054,
+    "Población": 17102
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Priego de Córdoba",
+    "Municipio ID": 14055,
+    "Población": 22092
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Puente Genil",
+    "Municipio ID": 14056,
+    "Población": 29748
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Rambla, La",
+    "Municipio ID": 14057,
+    "Población": 7525
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Rute",
+    "Municipio ID": 14058,
+    "Población": 9801
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "San Sebastián de los Ballesteros",
+    "Municipio ID": 14059,
+    "Población": 835
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Santa Eufemia",
+    "Municipio ID": 14061,
+    "Población": 734
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Santaella",
+    "Municipio ID": 14060,
+    "Población": 4637
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Torrecampo",
+    "Municipio ID": 14062,
+    "Población": 1032
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Valenzuela",
+    "Municipio ID": 14063,
+    "Población": 1079
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Valsequillo",
+    "Municipio ID": 14064,
+    "Población": 347
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Victoria, La",
+    "Municipio ID": 14065,
+    "Población": 2316
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Villa del Río",
+    "Municipio ID": 14066,
+    "Población": 6993
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Villafranca de Córdoba",
+    "Municipio ID": 14067,
+    "Población": 4872
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Villaharta",
+    "Municipio ID": 14068,
+    "Población": 632
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Villanueva de Córdoba",
+    "Municipio ID": 14069,
+    "Población": 8587
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Villanueva del Duque",
+    "Municipio ID": 14070,
+    "Población": 1431
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Villanueva del Rey",
+    "Municipio ID": 14071,
+    "Población": 1007
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Villaralto",
+    "Municipio ID": 14072,
+    "Población": 1111
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Villaviciosa de Córdoba",
+    "Municipio ID": 14073,
+    "Población": 3160
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Viso, El",
+    "Municipio ID": 14074,
+    "Población": 2528
+  },
+  {
+    "state_txt": "Córdoba",
+    "Municipio": "Zuheros",
+    "Municipio ID": 14075,
+    "Población": 631
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Agrón",
+    "Municipio ID": 18001,
+    "Población": 247
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Alamedilla",
+    "Municipio ID": 18002,
+    "Población": 567
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Albolote",
+    "Municipio ID": 18003,
+    "Población": 19199
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Albondón",
+    "Municipio ID": 18004,
+    "Población": 724
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Albuñán",
+    "Municipio ID": 18005,
+    "Población": 407
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Albuñol",
+    "Municipio ID": 18006,
+    "Población": 7420
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Albuñuelas",
+    "Municipio ID": 18007,
+    "Población": 787
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Aldeire",
+    "Municipio ID": 18010,
+    "Población": 603
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Alfacar",
+    "Municipio ID": 18011,
+    "Población": 5585
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Algarinejo",
+    "Municipio ID": 18012,
+    "Población": 2436
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Alhama de Granada",
+    "Municipio ID": 18013,
+    "Población": 5703
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Alhendín",
+    "Municipio ID": 18014,
+    "Población": 9941
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Alicún de Ortega",
+    "Municipio ID": 18015,
+    "Población": 458
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Almegíjar",
+    "Municipio ID": 18016,
+    "Población": 328
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Almuñécar",
+    "Municipio ID": 18017,
+    "Población": 26748
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Alpujarra de la Sierra",
+    "Municipio ID": 18904,
+    "Población": 922
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Alquife",
+    "Municipio ID": 18018,
+    "Población": 586
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Arenas del Rey",
+    "Municipio ID": 18020,
+    "Población": 623
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Armilla",
+    "Municipio ID": 18021,
+    "Población": 24629
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Atarfe",
+    "Municipio ID": 18022,
+    "Población": 19452
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Baza",
+    "Municipio ID": 18023,
+    "Población": 20376
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Beas de Granada",
+    "Municipio ID": 18024,
+    "Población": 986
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Beas de Guadix",
+    "Municipio ID": 18025,
+    "Población": 319
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Benalúa",
+    "Municipio ID": 18027,
+    "Población": 3260
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Benalúa de las Villas",
+    "Municipio ID": 18028,
+    "Población": 1058
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Benamaurel",
+    "Municipio ID": 18029,
+    "Población": 2275
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Bérchules",
+    "Municipio ID": 18030,
+    "Población": 694
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Bubión",
+    "Municipio ID": 18032,
+    "Población": 323
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Busquístar",
+    "Municipio ID": 18033,
+    "Población": 302
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Cacín",
+    "Municipio ID": 18034,
+    "Población": 547
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Cádiar",
+    "Municipio ID": 18035,
+    "Población": 1542
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Cájar",
+    "Municipio ID": 18036,
+    "Población": 5389
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Calahorra, La",
+    "Municipio ID": 18114,
+    "Población": 664
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Calicasas",
+    "Municipio ID": 18037,
+    "Población": 658
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Campotéjar",
+    "Municipio ID": 18038,
+    "Población": 1231
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Caniles",
+    "Municipio ID": 18039,
+    "Población": 4018
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Cáñar",
+    "Municipio ID": 18040,
+    "Población": 400
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Capileira",
+    "Municipio ID": 18042,
+    "Población": 578
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Carataunas",
+    "Municipio ID": 18043,
+    "Población": 201
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Cástaras",
+    "Municipio ID": 18044,
+    "Población": 233
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Castilléjar",
+    "Municipio ID": 18045,
+    "Población": 1312
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Castril",
+    "Municipio ID": 18046,
+    "Población": 2019
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Cenes de la Vega",
+    "Municipio ID": 18047,
+    "Población": 8121
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Chauchina",
+    "Municipio ID": 18059,
+    "Población": 5667
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Chimeneas",
+    "Municipio ID": 18061,
+    "Población": 1254
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Churriana de la Vega",
+    "Municipio ID": 18062,
+    "Población": 16026
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Cijuela",
+    "Municipio ID": 18048,
+    "Población": 3537
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Cogollos de Guadix",
+    "Municipio ID": 18049,
+    "Población": 636
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Cogollos de la Vega",
+    "Municipio ID": 18050,
+    "Población": 2042
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Colomera",
+    "Municipio ID": 18051,
+    "Población": 1291
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Cortes de Baza",
+    "Municipio ID": 18053,
+    "Población": 1824
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Cortes y Graena",
+    "Municipio ID": 18054,
+    "Población": 994
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Cuevas del Campo",
+    "Municipio ID": 18912,
+    "Población": 1767
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Cúllar",
+    "Municipio ID": 18056,
+    "Población": 4017
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Cúllar Vega",
+    "Municipio ID": 18057,
+    "Población": 7681
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Darro",
+    "Municipio ID": 18063,
+    "Población": 1652
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Dehesas de Guadix",
+    "Municipio ID": 18064,
+    "Población": 404
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Dehesas Viejas",
+    "Municipio ID": 18065,
+    "Población": 666
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Deifontes",
+    "Municipio ID": 18066,
+    "Población": 2615
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Diezma",
+    "Municipio ID": 18067,
+    "Población": 763
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Dílar",
+    "Municipio ID": 18068,
+    "Población": 2188
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Dólar",
+    "Municipio ID": 18069,
+    "Población": 614
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Domingo P‚rez de Granada",
+    "Municipio ID": 18915,
+    "Población": 849
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Dúdar",
+    "Municipio ID": 18070,
+    "Población": 355
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Dúrcal",
+    "Municipio ID": 18071,
+    "Población": 7216
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Escúzar",
+    "Municipio ID": 18072,
+    "Población": 835
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Ferreira",
+    "Municipio ID": 18074,
+    "Población": 305
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Fonelas",
+    "Municipio ID": 18076,
+    "Población": 981
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Fornes",
+    "Municipio ID": 18077,
+    "Población": 519
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Freila",
+    "Municipio ID": 18078,
+    "Población": 906
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Fuente Vaqueros",
+    "Municipio ID": 18079,
+    "Población": 4451
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Gabias, Las",
+    "Municipio ID": 18905,
+    "Población": 22312
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Galera",
+    "Municipio ID": 18082,
+    "Población": 1116
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Gobernador",
+    "Municipio ID": 18083,
+    "Población": 210
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Gójar",
+    "Municipio ID": 18084,
+    "Población": 6096
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Gor",
+    "Municipio ID": 18085,
+    "Población": 735
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Gorafe",
+    "Municipio ID": 18086,
+    "Población": 377
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Granada",
+    "Municipio ID": 18087,
+    "Población": 228682
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Guadahortuna",
+    "Municipio ID": 18088,
+    "Población": 1836
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Guadix",
+    "Municipio ID": 18089,
+    "Población": 18493
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Guajares, Los",
+    "Municipio ID": 18906,
+    "Población": 1100
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Gualchos",
+    "Municipio ID": 18093,
+    "Población": 5292
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Güejar Sierra",
+    "Municipio ID": 18094,
+    "Población": 2880
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Güevéjar",
+    "Municipio ID": 18095,
+    "Población": 2664
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Huélago",
+    "Municipio ID": 18096,
+    "Población": 373
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Huéneja",
+    "Municipio ID": 18097,
+    "Población": 1207
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Huéscar",
+    "Municipio ID": 18098,
+    "Población": 7246
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Huétor de Santillán",
+    "Municipio ID": 18099,
+    "Población": 1923
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Huétor Tájar",
+    "Municipio ID": 18100,
+    "Población": 10543
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Huétor Vega",
+    "Municipio ID": 18101,
+    "Población": 12089
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Illora",
+    "Municipio ID": 18102,
+    "Población": 10020
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Itrabo",
+    "Municipio ID": 18103,
+    "Población": 937
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Iznalloz",
+    "Municipio ID": 18105,
+    "Población": 5142
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "J tar",
+    "Municipio ID": 18106,
+    "Población": 579
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Jayena",
+    "Municipio ID": 18107,
+    "Población": 1008
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Jerez del Marquesado",
+    "Municipio ID": 18108,
+    "Población": 956
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Jete",
+    "Municipio ID": 18109,
+    "Población": 1008
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Jun",
+    "Municipio ID": 18111,
+    "Población": 3991
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Juviles",
+    "Municipio ID": 18112,
+    "Población": 134
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Láchar",
+    "Municipio ID": 18115,
+    "Población": 3657
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Lanjarón",
+    "Municipio ID": 18116,
+    "Población": 3615
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Lanteira",
+    "Municipio ID": 18117,
+    "Población": 566
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Lecrín",
+    "Municipio ID": 18119,
+    "Población": 2225
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Lentegí",
+    "Municipio ID": 18120,
+    "Población": 335
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Lobras",
+    "Municipio ID": 18121,
+    "Población": 135
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Loja",
+    "Municipio ID": 18122,
+    "Población": 20555
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Lugros",
+    "Municipio ID": 18123,
+    "Población": 304
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Lújar",
+    "Municipio ID": 18124,
+    "Población": 483
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Malahá, La",
+    "Municipio ID": 18126,
+    "Población": 1810
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Maracena",
+    "Municipio ID": 18127,
+    "Población": 22293
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Marchal",
+    "Municipio ID": 18128,
+    "Población": 414
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Moclín",
+    "Municipio ID": 18132,
+    "Población": 3607
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Molvízar",
+    "Municipio ID": 18133,
+    "Población": 2731
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Monachil",
+    "Municipio ID": 18134,
+    "Población": 8182
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Montefrío",
+    "Municipio ID": 18135,
+    "Población": 5406
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Montejícar",
+    "Municipio ID": 18136,
+    "Población": 2058
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Montillana",
+    "Municipio ID": 18137,
+    "Población": 1083
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Moraleda de Zafayona",
+    "Municipio ID": 18138,
+    "Población": 3123
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Morelábor",
+    "Municipio ID": 18909,
+    "Población": 582
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Motril",
+    "Municipio ID": 18140,
+    "Población": 58798
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Murtas",
+    "Municipio ID": 18141,
+    "Población": 463
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Nevada",
+    "Municipio ID": 18903,
+    "Población": 1086
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Nigüelas",
+    "Municipio ID": 18143,
+    "Población": 1225
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Nívar",
+    "Municipio ID": 18144,
+    "Población": 1099
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Ogíjares",
+    "Municipio ID": 18145,
+    "Población": 14627
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Orce",
+    "Municipio ID": 18146,
+    "Población": 1148
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Órgiva",
+    "Municipio ID": 18147,
+    "Población": 5791
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Otívar",
+    "Municipio ID": 18148,
+    "Población": 1004
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Otura",
+    "Municipio ID": 18149,
+    "Población": 7362
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Padul",
+    "Municipio ID": 18150,
+    "Población": 9158
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Pampaneira",
+    "Municipio ID": 18151,
+    "Población": 319
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Pedro Martínez",
+    "Municipio ID": 18152,
+    "Población": 1120
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Peligros",
+    "Municipio ID": 18153,
+    "Población": 11624
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Peza, La",
+    "Municipio ID": 18154,
+    "Población": 1149
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Pinar, El",
+    "Municipio ID": 18910,
+    "Población": 896
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Pinos Genil",
+    "Municipio ID": 18157,
+    "Población": 1530
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Pinos Puente",
+    "Municipio ID": 18158,
+    "Población": 9804
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Píñar",
+    "Municipio ID": 18159,
+    "Población": 1106
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Polícar",
+    "Municipio ID": 18161,
+    "Población": 262
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Polopos",
+    "Municipio ID": 18162,
+    "Población": 1630
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Pórtugos",
+    "Municipio ID": 18163,
+    "Población": 397
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Puebla de Don Fadrique",
+    "Municipio ID": 18164,
+    "Población": 2197
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Pulianas",
+    "Municipio ID": 18165,
+    "Población": 5495
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Purullena",
+    "Municipio ID": 18167,
+    "Población": 2329
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Quéntar",
+    "Municipio ID": 18168,
+    "Población": 972
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Rubite",
+    "Municipio ID": 18170,
+    "Población": 403
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Salar",
+    "Municipio ID": 18171,
+    "Población": 2612
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Salobreña",
+    "Municipio ID": 18173,
+    "Población": 12477
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Santa Cruz del Comercio",
+    "Municipio ID": 18174,
+    "Población": 539
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Santa Fe",
+    "Municipio ID": 18175,
+    "Población": 15042
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Soportújar",
+    "Municipio ID": 18176,
+    "Población": 265
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Sorvilán",
+    "Municipio ID": 18177,
+    "Población": 535
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Taha, La",
+    "Municipio ID": 18901,
+    "Población": 727
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Torre-Cardela",
+    "Municipio ID": 18178,
+    "Población": 709
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Torrenueva Costa",
+    "Municipio ID": 18916,
+    "Población": 3038
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Torvizcón",
+    "Municipio ID": 18179,
+    "Población": 650
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Trevélez",
+    "Municipio ID": 18180,
+    "Población": 712
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Turón",
+    "Municipio ID": 18181,
+    "Población": 235
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Ugíjar",
+    "Municipio ID": 18182,
+    "Población": 2555
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Valderrubio",
+    "Municipio ID": 18914,
+    "Población": 2045
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Valle del Zalabí",
+    "Municipio ID": 18907,
+    "Población": 2087
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Valle, El",
+    "Municipio ID": 18902,
+    "Población": 917
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Válor",
+    "Municipio ID": 18183,
+    "Población": 678
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Vegas del Genil",
+    "Municipio ID": 18911,
+    "Población": 11874
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Vélez de Benaudalla",
+    "Municipio ID": 18184,
+    "Población": 2960
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Ventas de Huelma",
+    "Municipio ID": 18185,
+    "Población": 641
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Villamena",
+    "Municipio ID": 18908,
+    "Población": 954
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Villanueva de las Torres",
+    "Municipio ID": 18187,
+    "Población": 536
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Villanueva Mesía",
+    "Municipio ID": 18188,
+    "Población": 2031
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Víznar",
+    "Municipio ID": 18189,
+    "Población": 987
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Zafarraya",
+    "Municipio ID": 18192,
+    "Población": 2123
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Zagra",
+    "Municipio ID": 18913,
+    "Población": 931
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Zubia, La",
+    "Municipio ID": 18193,
+    "Población": 19593
+  },
+  {
+    "state_txt": "Granada",
+    "Municipio": "Zújar",
+    "Municipio ID": 18194,
+    "Población": 2501
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Alájar",
+    "Municipio ID": 21001,
+    "Población": 802
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Aljaraque",
+    "Municipio ID": 21002,
+    "Población": 22078
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Almendro, El",
+    "Municipio ID": 21003,
+    "Población": 848
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Almonaster la Real",
+    "Municipio ID": 21004,
+    "Población": 1785
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Almonte",
+    "Municipio ID": 21005,
+    "Población": 25448
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Alosno",
+    "Municipio ID": 21006,
+    "Población": 3940
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Aracena",
+    "Municipio ID": 21007,
+    "Población": 8240
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Aroche",
+    "Municipio ID": 21008,
+    "Población": 3024
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Arroyomolinos de León",
+    "Municipio ID": 21009,
+    "Población": 951
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Ayamonte",
+    "Municipio ID": 21010,
+    "Población": 21725
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Beas",
+    "Municipio ID": 21011,
+    "Población": 4465
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Berrocal",
+    "Municipio ID": 21012,
+    "Población": 302
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Bollullos Par del Condado",
+    "Municipio ID": 21013,
+    "Población": 14293
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Bonares",
+    "Municipio ID": 21014,
+    "Población": 6093
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Cabezas Rubias",
+    "Municipio ID": 21015,
+    "Población": 705
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Cala",
+    "Municipio ID": 21016,
+    "Población": 1155
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Calañas",
+    "Municipio ID": 21017,
+    "Población": 2734
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Campillo, El",
+    "Municipio ID": 21018,
+    "Población": 2018
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Campofrío",
+    "Municipio ID": 21019,
+    "Población": 742
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Cañaveral de León",
+    "Municipio ID": 21020,
+    "Población": 393
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Cartaya",
+    "Municipio ID": 21021,
+    "Población": 20717
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Castaño del Robledo",
+    "Municipio ID": 21022,
+    "Población": 227
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Cerro de Andévalo, El",
+    "Municipio ID": 21023,
+    "Población": 2286
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Chucena",
+    "Municipio ID": 21030,
+    "Población": 2229
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Corteconcepción",
+    "Municipio ID": 21024,
+    "Población": 561
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Cortegana",
+    "Municipio ID": 21025,
+    "Población": 4636
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Cortelazor",
+    "Municipio ID": 21026,
+    "Población": 302
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Cumbres de Enmedio",
+    "Municipio ID": 21027,
+    "Población": 59
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Cumbres de San Bartolomé",
+    "Municipio ID": 21028,
+    "Población": 377
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Cumbres Mayores",
+    "Municipio ID": 21029,
+    "Población": 1737
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Encinasola",
+    "Municipio ID": 21031,
+    "Población": 1275
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Escacena del Campo",
+    "Municipio ID": 21032,
+    "Población": 2288
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Fuenteheridos",
+    "Municipio ID": 21033,
+    "Población": 778
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Galaroza",
+    "Municipio ID": 21034,
+    "Población": 1373
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Gibraleón",
+    "Municipio ID": 21035,
+    "Población": 12930
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Granada de Río-Tinto, La",
+    "Municipio ID": 21036,
+    "Población": 254
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Granado, El",
+    "Municipio ID": 21037,
+    "Población": 507
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Higuera de la Sierra",
+    "Municipio ID": 21038,
+    "Población": 1320
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Hinojales",
+    "Municipio ID": 21039,
+    "Población": 335
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Hinojos",
+    "Municipio ID": 21040,
+    "Población": 3951
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Huelva",
+    "Municipio ID": 21041,
+    "Población": 141854
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Isla Cristina",
+    "Municipio ID": 21042,
+    "Población": 21523
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Jabugo",
+    "Municipio ID": 21043,
+    "Población": 2243
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Lepe",
+    "Municipio ID": 21044,
+    "Población": 28617
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Linares de la Sierra",
+    "Municipio ID": 21045,
+    "Población": 276
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Lucena del Puerto",
+    "Municipio ID": 21046,
+    "Población": 3213
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Manzanilla",
+    "Municipio ID": 21047,
+    "Población": 2119
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Marines, Los",
+    "Municipio ID": 21048,
+    "Población": 410
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Minas de Riotinto",
+    "Municipio ID": 21049,
+    "Población": 3738
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Moguer",
+    "Municipio ID": 21050,
+    "Población": 22643
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Nava, La",
+    "Municipio ID": 21051,
+    "Población": 247
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Nerva",
+    "Municipio ID": 21052,
+    "Población": 5100
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Niebla",
+    "Municipio ID": 21053,
+    "Población": 4196
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Palma del Condado, La",
+    "Municipio ID": 21054,
+    "Población": 10770
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Palos de la Frontera",
+    "Municipio ID": 21055,
+    "Población": 12483
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Paterna del Campo",
+    "Municipio ID": 21056,
+    "Población": 3478
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Paymogo",
+    "Municipio ID": 21057,
+    "Población": 1124
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Puebla de Guzmán",
+    "Municipio ID": 21058,
+    "Población": 3092
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Puerto Moral",
+    "Municipio ID": 21059,
+    "Población": 281
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Punta Umbría",
+    "Municipio ID": 21060,
+    "Población": 16167
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Rociana del Condado",
+    "Municipio ID": 21061,
+    "Población": 7866
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Rosal de la Frontera",
+    "Municipio ID": 21062,
+    "Población": 1698
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "San Bartolomé de la Torre",
+    "Municipio ID": 21063,
+    "Población": 3906
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "San Juan del Puerto",
+    "Municipio ID": 21064,
+    "Población": 9532
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "San Silvestre de Guzmán",
+    "Municipio ID": 21066,
+    "Población": 659
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Sanlúcar de Guadiana",
+    "Municipio ID": 21065,
+    "Población": 402
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Santa Ana la Real",
+    "Municipio ID": 21067,
+    "Población": 473
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Santa Bárbara de Casa",
+    "Municipio ID": 21068,
+    "Población": 1075
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Santa Olalla del Cala",
+    "Municipio ID": 21069,
+    "Población": 2028
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Trigueros",
+    "Municipio ID": 21070,
+    "Población": 7926
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Valdelarco",
+    "Municipio ID": 21071,
+    "Población": 239
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Valverde del Camino",
+    "Municipio ID": 21072,
+    "Población": 12721
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Villablanca",
+    "Municipio ID": 21073,
+    "Población": 2945
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Villalba del Alcor",
+    "Municipio ID": 21074,
+    "Población": 3316
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Villanueva de las Cruces",
+    "Municipio ID": 21075,
+    "Población": 377
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Villanueva de los Castillejos",
+    "Municipio ID": 21076,
+    "Población": 2923
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Villarrasa",
+    "Municipio ID": 21077,
+    "Población": 2190
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Zalamea la Real",
+    "Municipio ID": 21078,
+    "Población": 3026
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Zarza-Perrunal, La",
+    "Municipio ID": 21902,
+    "Población": 1230
+  },
+  {
+    "state_txt": "Huelva",
+    "Municipio": "Zufre",
+    "Municipio ID": 21079,
+    "Población": 774
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Albanchez de Mágina",
+    "Municipio ID": 23001,
+    "Población": 993
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Alcalá la Real",
+    "Municipio ID": 23002,
+    "Población": 21556
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Alcaudete",
+    "Municipio ID": 23003,
+    "Población": 10347
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Aldeaquemada",
+    "Municipio ID": 23004,
+    "Población": 463
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Andújar",
+    "Municipio ID": 23005,
+    "Población": 36030
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Arjona",
+    "Municipio ID": 23006,
+    "Población": 5397
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Arjonilla",
+    "Municipio ID": 23007,
+    "Población": 3535
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Arquillos",
+    "Municipio ID": 23008,
+    "Población": 1698
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Arroyo del Ojanco",
+    "Municipio ID": 23905,
+    "Población": 2227
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Baeza",
+    "Municipio ID": 23009,
+    "Población": 15773
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Bailén",
+    "Municipio ID": 23010,
+    "Población": 17377
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Baños de la Encina",
+    "Municipio ID": 23011,
+    "Población": 2594
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Beas de Segura",
+    "Municipio ID": 23012,
+    "Población": 5112
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Bedmar y Garcíez",
+    "Municipio ID": 23902,
+    "Población": 2637
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Begíjar",
+    "Municipio ID": 23014,
+    "Población": 3008
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Bélmez de la Moraleda",
+    "Municipio ID": 23015,
+    "Población": 1519
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Benatae",
+    "Municipio ID": 23016,
+    "Población": 448
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Cabra del Santo Cristo",
+    "Municipio ID": 23017,
+    "Población": 1745
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Cambil",
+    "Municipio ID": 23018,
+    "Población": 2642
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Campillo de Arenas",
+    "Municipio ID": 23019,
+    "Población": 1705
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Canena",
+    "Municipio ID": 23020,
+    "Población": 1802
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Carboneros",
+    "Municipio ID": 23021,
+    "Población": 593
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Cárcheles",
+    "Municipio ID": 23901,
+    "Población": 1310
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Carolina, La",
+    "Municipio ID": 23024,
+    "Población": 14960
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Castellar",
+    "Municipio ID": 23025,
+    "Población": 3209
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Castillo de Locubín",
+    "Municipio ID": 23026,
+    "Población": 3960
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Cazalilla",
+    "Municipio ID": 23027,
+    "Población": 745
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Cazorla",
+    "Municipio ID": 23028,
+    "Población": 7183
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Chiclana de Segura",
+    "Municipio ID": 23029,
+    "Población": 902
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Chilluévar",
+    "Municipio ID": 23030,
+    "Población": 1397
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Escañuela",
+    "Municipio ID": 23031,
+    "Población": 932
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Espelúy",
+    "Municipio ID": 23032,
+    "Población": 606
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Frailes",
+    "Municipio ID": 23033,
+    "Población": 1565
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Fuensanta de Martos",
+    "Municipio ID": 23034,
+    "Población": 3023
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Fuerte del Rey",
+    "Municipio ID": 23035,
+    "Población": 1309
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Génave",
+    "Municipio ID": 23037,
+    "Población": 573
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Guardia de Jaén, La",
+    "Municipio ID": 23038,
+    "Población": 5151
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Guarromán",
+    "Municipio ID": 23039,
+    "Población": 2748
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Higuera de Calatrava",
+    "Municipio ID": 23041,
+    "Población": 609
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Hinojares",
+    "Municipio ID": 23042,
+    "Población": 335
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Hornos",
+    "Municipio ID": 23043,
+    "Población": 589
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Huelma",
+    "Municipio ID": 23044,
+    "Población": 5615
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Huesa",
+    "Municipio ID": 23045,
+    "Población": 2445
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Ibros",
+    "Municipio ID": 23046,
+    "Población": 2787
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Iruela, La",
+    "Municipio ID": 23047,
+    "Población": 1910
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Iznatoraf",
+    "Municipio ID": 23048,
+    "Población": 905
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Jabalquinto",
+    "Municipio ID": 23049,
+    "Población": 1968
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Jaén",
+    "Municipio ID": 23050,
+    "Población": 111669
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Jamilena",
+    "Municipio ID": 23051,
+    "Población": 3314
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Jimena",
+    "Municipio ID": 23052,
+    "Población": 1253
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Jódar",
+    "Municipio ID": 23053,
+    "Población": 11533
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Lahiguera",
+    "Municipio ID": 23040,
+    "Población": 1638
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Larva",
+    "Municipio ID": 23054,
+    "Población": 459
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Linares",
+    "Municipio ID": 23055,
+    "Población": 55729
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Lopera",
+    "Municipio ID": 23056,
+    "Población": 3616
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Lupión",
+    "Municipio ID": 23057,
+    "Población": 830
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Mancha Real",
+    "Municipio ID": 23058,
+    "Población": 11350
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Marmolejo",
+    "Municipio ID": 23059,
+    "Población": 6660
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Martos",
+    "Municipio ID": 23060,
+    "Población": 24329
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Mengíbar",
+    "Municipio ID": 23061,
+    "Población": 9965
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Montizón",
+    "Municipio ID": 23062,
+    "Población": 1606
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Navas de San Juan",
+    "Municipio ID": 23063,
+    "Población": 4465
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Noalejo",
+    "Municipio ID": 23064,
+    "Población": 1856
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Orcera",
+    "Municipio ID": 23065,
+    "Población": 1752
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Peal de Becerro",
+    "Municipio ID": 23066,
+    "Población": 5345
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Pegalajar",
+    "Municipio ID": 23067,
+    "Población": 2823
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Porcuna",
+    "Municipio ID": 23069,
+    "Población": 6080
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Pozo Alcón",
+    "Municipio ID": 23070,
+    "Población": 4633
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Puente de Génave",
+    "Municipio ID": 23071,
+    "Población": 2175
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Puerta de Segura, La",
+    "Municipio ID": 23072,
+    "Población": 2245
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Quesada",
+    "Municipio ID": 23073,
+    "Población": 5106
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Rus",
+    "Municipio ID": 23074,
+    "Población": 3465
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Sabiote",
+    "Municipio ID": 23075,
+    "Población": 3863
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Santa Elena",
+    "Municipio ID": 23076,
+    "Población": 883
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Santiago de Calatrava",
+    "Municipio ID": 23077,
+    "Población": 655
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Santiago-Pontones",
+    "Municipio ID": 23904,
+    "Población": 2777
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Santisteban del Puerto",
+    "Municipio ID": 23079,
+    "Población": 4434
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Santo Tomé",
+    "Municipio ID": 23080,
+    "Población": 2105
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Segura de la Sierra",
+    "Municipio ID": 23081,
+    "Población": 1729
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Siles",
+    "Municipio ID": 23082,
+    "Población": 2168
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Sorihuela del Guadalimar",
+    "Municipio ID": 23084,
+    "Población": 1053
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Torre del Campo",
+    "Municipio ID": 23086,
+    "Población": 13922
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Torreblascopedro",
+    "Municipio ID": 23085,
+    "Población": 2460
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Torredonjimeno",
+    "Municipio ID": 23087,
+    "Población": 13467
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Torreperogil",
+    "Municipio ID": 23088,
+    "Población": 7130
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Torres",
+    "Municipio ID": 23090,
+    "Población": 1360
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Torres de Albánchez",
+    "Municipio ID": 23091,
+    "Población": 758
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Úbeda",
+    "Municipio ID": 23092,
+    "Población": 34062
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Valdepeñas de Jaén",
+    "Municipio ID": 23093,
+    "Población": 3597
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Vilches",
+    "Municipio ID": 23094,
+    "Población": 4317
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Villacarrillo",
+    "Municipio ID": 23095,
+    "Población": 10484
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Villanueva de la Reina",
+    "Municipio ID": 23096,
+    "Población": 3013
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Villanueva del Arzobispo",
+    "Municipio ID": 23097,
+    "Población": 7968
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Villardompardo",
+    "Municipio ID": 23098,
+    "Población": 935
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Villares, Los",
+    "Municipio ID": 23099,
+    "Población": 6120
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Villarrodrigo",
+    "Municipio ID": 23101,
+    "Población": 375
+  },
+  {
+    "state_txt": "Jaén",
+    "Municipio": "Villatorres",
+    "Municipio ID": 23903,
+    "Población": 4293
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Alameda",
+    "Municipio ID": 29001,
+    "Población": 5451
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Alcaucín",
+    "Municipio ID": 29002,
+    "Población": 2487
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Alfarnate",
+    "Municipio ID": 29003,
+    "Población": 1039
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Alfarnatejo",
+    "Municipio ID": 29004,
+    "Población": 364
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Algarrobo",
+    "Municipio ID": 29005,
+    "Población": 6625
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Algatocín",
+    "Municipio ID": 29006,
+    "Población": 826
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Alhaurín de la Torre",
+    "Municipio ID": 29007,
+    "Población": 42531
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Alhaurín el Grande",
+    "Municipio ID": 29008,
+    "Población": 26436
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Almáchar",
+    "Municipio ID": 29009,
+    "Población": 1840
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Almargen",
+    "Municipio ID": 29010,
+    "Población": 1927
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Almogía",
+    "Municipio ID": 29011,
+    "Población": 3885
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Álora",
+    "Municipio ID": 29012,
+    "Población": 13382
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Alozaina",
+    "Municipio ID": 29013,
+    "Población": 2089
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Alpandeire",
+    "Municipio ID": 29014,
+    "Población": 266
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Antequera",
+    "Municipio ID": 29015,
+    "Población": 41184
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Árchez",
+    "Municipio ID": 29016,
+    "Población": 396
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Archidona",
+    "Municipio ID": 29017,
+    "Población": 8024
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Ardales",
+    "Municipio ID": 29018,
+    "Población": 2520
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Arenas",
+    "Municipio ID": 29019,
+    "Población": 1249
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Arriate",
+    "Municipio ID": 29020,
+    "Población": 4110
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Atajate",
+    "Municipio ID": 29021,
+    "Población": 183
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Benadalid",
+    "Municipio ID": 29022,
+    "Población": 239
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Benahavís",
+    "Municipio ID": 29023,
+    "Población": 8763
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Benalauría",
+    "Municipio ID": 29024,
+    "Población": 434
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Benalmádena",
+    "Municipio ID": 29025,
+    "Población": 73160
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Benamargosa",
+    "Municipio ID": 29026,
+    "Población": 1519
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Benamocarra",
+    "Municipio ID": 29027,
+    "Población": 3085
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Benaoján",
+    "Municipio ID": 29028,
+    "Población": 1459
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Benarrabá",
+    "Municipio ID": 29029,
+    "Población": 446
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Borge, El",
+    "Municipio ID": 29030,
+    "Población": 921
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Burgo, El",
+    "Municipio ID": 29031,
+    "Población": 1791
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Campillos",
+    "Municipio ID": 29032,
+    "Población": 8372
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Canillas de Aceituno",
+    "Municipio ID": 29033,
+    "Población": 1722
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Canillas de Albaida",
+    "Municipio ID": 29034,
+    "Población": 796
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Cañete la Real",
+    "Municipio ID": 29035,
+    "Población": 1584
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Carratraca",
+    "Municipio ID": 29036,
+    "Población": 718
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Cartajima",
+    "Municipio ID": 29037,
+    "Población": 256
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Cártama",
+    "Municipio ID": 29038,
+    "Población": 27712
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Casabermeja",
+    "Municipio ID": 29039,
+    "Población": 3813
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Casarabonela",
+    "Municipio ID": 29040,
+    "Población": 2524
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Casares",
+    "Municipio ID": 29041,
+    "Población": 7700
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Coín",
+    "Municipio ID": 29042,
+    "Población": 24309
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Colmenar",
+    "Municipio ID": 29043,
+    "Población": 3488
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Comares",
+    "Municipio ID": 29044,
+    "Población": 1320
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Cómpeta",
+    "Municipio ID": 29045,
+    "Población": 3814
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Cortes de la Frontera",
+    "Municipio ID": 29046,
+    "Población": 2986
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Cuevas Bajas",
+    "Municipio ID": 29047,
+    "Población": 1353
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Cuevas de San Marcos",
+    "Municipio ID": 29049,
+    "Población": 3632
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Cuevas del Becerro",
+    "Municipio ID": 29048,
+    "Población": 1609
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Cútar",
+    "Municipio ID": 29050,
+    "Población": 590
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Estepona",
+    "Municipio ID": 29051,
+    "Población": 74493
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Faraján",
+    "Municipio ID": 29052,
+    "Población": 270
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Frigiliana",
+    "Municipio ID": 29053,
+    "Población": 3282
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Fuengirola",
+    "Municipio ID": 29054,
+    "Población": 83226
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Fuente de Piedra",
+    "Municipio ID": 29055,
+    "Población": 2787
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Gaucín",
+    "Municipio ID": 29056,
+    "Población": 1608
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Genalguacil",
+    "Municipio ID": 29057,
+    "Población": 393
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Guaro",
+    "Municipio ID": 29058,
+    "Población": 2302
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Humilladero",
+    "Municipio ID": 29059,
+    "Población": 3282
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Igualeja",
+    "Municipio ID": 29060,
+    "Población": 729
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Istán",
+    "Municipio ID": 29061,
+    "Población": 1587
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Iznate",
+    "Municipio ID": 29062,
+    "Población": 899
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Jimera de Líbar",
+    "Municipio ID": 29063,
+    "Población": 403
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Jubrique",
+    "Municipio ID": 29064,
+    "Población": 545
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Júzcar",
+    "Municipio ID": 29065,
+    "Población": 247
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Macharaviaya",
+    "Municipio ID": 29066,
+    "Población": 513
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Málaga",
+    "Municipio ID": 29067,
+    "Población": 579076
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Manilva",
+    "Municipio ID": 29068,
+    "Población": 17157
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Marbella",
+    "Municipio ID": 29069,
+    "Población": 150725
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Mijas",
+    "Municipio ID": 29070,
+    "Población": 89502
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Moclinejo",
+    "Municipio ID": 29071,
+    "Población": 1243
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Mollina",
+    "Municipio ID": 29072,
+    "Población": 5376
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Monda",
+    "Municipio ID": 29073,
+    "Población": 2844
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Montecorto",
+    "Municipio ID": 29903,
+    "Población": 582
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Montejaque",
+    "Municipio ID": 29074,
+    "Población": 938
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Nerja",
+    "Municipio ID": 29075,
+    "Población": 21450
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Ojén",
+    "Municipio ID": 29076,
+    "Población": 4218
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Parauta",
+    "Municipio ID": 29077,
+    "Población": 272
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Periana",
+    "Municipio ID": 29079,
+    "Población": 3234
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Pizarra",
+    "Municipio ID": 29080,
+    "Población": 9661
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Pujerra",
+    "Municipio ID": 29081,
+    "Población": 274
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Rincón de la Victoria",
+    "Municipio ID": 29082,
+    "Población": 50569
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Riogordo",
+    "Municipio ID": 29083,
+    "Población": 2762
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Ronda",
+    "Municipio ID": 29084,
+    "Población": 33401
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Salares",
+    "Municipio ID": 29085,
+    "Población": 175
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Sayalonga",
+    "Municipio ID": 29086,
+    "Población": 1641
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Sedella",
+    "Municipio ID": 29087,
+    "Población": 598
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Serrato",
+    "Municipio ID": 29904,
+    "Población": 458
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Sierra de Yeguas",
+    "Municipio ID": 29088,
+    "Población": 3393
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Teba",
+    "Municipio ID": 29089,
+    "Población": 3729
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Tolox",
+    "Municipio ID": 29090,
+    "Población": 2309
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Torremolinos",
+    "Municipio ID": 29901,
+    "Población": 68819
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Torrox",
+    "Municipio ID": 29091,
+    "Población": 19997
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Totalán",
+    "Municipio ID": 29092,
+    "Población": 750
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Valle de Abdalajís",
+    "Municipio ID": 29093,
+    "Población": 2473
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Vélez-Málaga",
+    "Municipio ID": 29094,
+    "Población": 83899
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Villanueva de Algaidas",
+    "Municipio ID": 29095,
+    "Población": 4146
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Villanueva de la Concepción",
+    "Municipio ID": 29902,
+    "Población": 3295
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Villanueva de Tapia",
+    "Municipio ID": 29098,
+    "Población": 1417
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Villanueva del Rosario",
+    "Municipio ID": 29096,
+    "Población": 3339
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Villanueva del Trabuco",
+    "Municipio ID": 29097,
+    "Población": 5340
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Viñuela",
+    "Municipio ID": 29099,
+    "Población": 2106
+  },
+  {
+    "state_txt": "Málaga",
+    "Municipio": "Yunquera",
+    "Municipio ID": 29100,
+    "Población": 2841
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Aguadulce",
+    "Municipio ID": 41001,
+    "Población": 2043
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Alanís",
+    "Municipio ID": 41002,
+    "Población": 1689
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Albaida del Aljarafe",
+    "Municipio ID": 41003,
+    "Población": 3236
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Alcalá de Guadaíra",
+    "Municipio ID": 41004,
+    "Población": 75917
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Alcalá del Río",
+    "Municipio ID": 41005,
+    "Población": 12315
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Alcolea del Río",
+    "Municipio ID": 41006,
+    "Población": 3308
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Algaba, La",
+    "Municipio ID": 41007,
+    "Población": 16491
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Algámitas",
+    "Municipio ID": 41008,
+    "Población": 1252
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Almadén de la Plata",
+    "Municipio ID": 41009,
+    "Población": 1326
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Almensilla",
+    "Municipio ID": 41010,
+    "Población": 6415
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Arahal",
+    "Municipio ID": 41011,
+    "Población": 19476
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Aznalcázar",
+    "Municipio ID": 41012,
+    "Población": 4664
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Aznalcóllar",
+    "Municipio ID": 41013,
+    "Población": 6011
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Badolatosa",
+    "Municipio ID": 41014,
+    "Población": 3112
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Benacazón",
+    "Municipio ID": 41015,
+    "Población": 7299
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Bollullos de la Mitación",
+    "Municipio ID": 41016,
+    "Población": 11136
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Bormujos",
+    "Municipio ID": 41017,
+    "Población": 22536
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Brenes",
+    "Municipio ID": 41018,
+    "Población": 12652
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Burguillos",
+    "Municipio ID": 41019,
+    "Población": 6907
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Cabezas de San Juan, Las",
+    "Municipio ID": 41020,
+    "Población": 16386
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Camas",
+    "Municipio ID": 41021,
+    "Población": 27443
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Campana, La",
+    "Municipio ID": 41022,
+    "Población": 5177
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Cantillana",
+    "Municipio ID": 41023,
+    "Población": 10751
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Cañada Rosal",
+    "Municipio ID": 41901,
+    "Población": 3379
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Carmona",
+    "Municipio ID": 41024,
+    "Población": 29279
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Carrión de los Céspedes",
+    "Municipio ID": 41025,
+    "Población": 2562
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Casariche",
+    "Municipio ID": 41026,
+    "Población": 5332
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Castilblanco de los Arroyos",
+    "Municipio ID": 41027,
+    "Población": 5027
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Castilleja de Guzmán",
+    "Municipio ID": 41028,
+    "Población": 2866
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Castilleja de la Cuesta",
+    "Municipio ID": 41029,
+    "Población": 17230
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Castilleja del Campo",
+    "Municipio ID": 41030,
+    "Población": 624
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Castillo de las Guardas, El",
+    "Municipio ID": 41031,
+    "Población": 1529
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Cazalla de la Sierra",
+    "Municipio ID": 41032,
+    "Población": 4700
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Constantina",
+    "Municipio ID": 41033,
+    "Población": 5779
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Coria del Río",
+    "Municipio ID": 41034,
+    "Población": 30714
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Coripe",
+    "Municipio ID": 41035,
+    "Población": 1220
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Coronil, El",
+    "Municipio ID": 41036,
+    "Población": 4720
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Corrales, Los",
+    "Municipio ID": 41037,
+    "Población": 3984
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Cuervo de Sevilla, El",
+    "Municipio ID": 41903,
+    "Población": 8623
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Dos Hermanas",
+    "Municipio ID": 41038,
+    "Población": 137561
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Écija",
+    "Municipio ID": 41039,
+    "Población": 39743
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Espartinas",
+    "Municipio ID": 41040,
+    "Población": 16401
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Estepa",
+    "Municipio ID": 41041,
+    "Población": 12390
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Fuentes de Andalucía",
+    "Municipio ID": 41042,
+    "Población": 7173
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Garrobo, El",
+    "Municipio ID": 41043,
+    "Población": 821
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Gelves",
+    "Municipio ID": 41044,
+    "Población": 10317
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Gerena",
+    "Municipio ID": 41045,
+    "Población": 7774
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Gilena",
+    "Municipio ID": 41046,
+    "Población": 3702
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Gines",
+    "Municipio ID": 41047,
+    "Población": 13507
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Guadalcanal",
+    "Municipio ID": 41048,
+    "Población": 2589
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Guillena",
+    "Municipio ID": 41049,
+    "Población": 13279
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Herrera",
+    "Municipio ID": 41050,
+    "Población": 6503
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Huévar del Aljarafe",
+    "Municipio ID": 41051,
+    "Población": 3209
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Isla Mayor",
+    "Municipio ID": 41902,
+    "Población": 5767
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Lantejuela, La",
+    "Municipio ID": 41052,
+    "Población": 3865
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Lebrija",
+    "Municipio ID": 41053,
+    "Población": 27665
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Lora de Estepa",
+    "Municipio ID": 41054,
+    "Población": 883
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Lora del Río",
+    "Municipio ID": 41055,
+    "Población": 18417
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Luisiana, La",
+    "Municipio ID": 41056,
+    "Población": 4588
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Madroño, El",
+    "Municipio ID": 41057,
+    "Población": 290
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Mairena del Alcor",
+    "Municipio ID": 41058,
+    "Población": 23938
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Mairena del Aljarafe",
+    "Municipio ID": 41059,
+    "Población": 47161
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Marchena",
+    "Municipio ID": 41060,
+    "Población": 19264
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Marinaleda",
+    "Municipio ID": 41061,
+    "Población": 2579
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Martín de la Jara",
+    "Municipio ID": 41062,
+    "Población": 2643
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Molares, Los",
+    "Municipio ID": 41063,
+    "Población": 3559
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Montellano",
+    "Municipio ID": 41064,
+    "Población": 6976
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Morón de la Frontera",
+    "Municipio ID": 41065,
+    "Población": 27357
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Navas de la Concepción, Las",
+    "Municipio ID": 41066,
+    "Población": 1552
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Olivares",
+    "Municipio ID": 41067,
+    "Población": 9444
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Osuna",
+    "Municipio ID": 41068,
+    "Población": 17442
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Palacios y Villafranca, Los",
+    "Municipio ID": 41069,
+    "Población": 38662
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Palmar de Troya, El",
+    "Municipio ID": 41904,
+    "Población": 2343
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Palomares del Río",
+    "Municipio ID": 41070,
+    "Población": 9083
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Paradas",
+    "Municipio ID": 41071,
+    "Población": 6832
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Pedrera",
+    "Municipio ID": 41072,
+    "Población": 5110
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Pedroso, El",
+    "Municipio ID": 41073,
+    "Población": 2039
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Peñaflor",
+    "Municipio ID": 41074,
+    "Población": 3685
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Pilas",
+    "Municipio ID": 41075,
+    "Población": 13964
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Pruna",
+    "Municipio ID": 41076,
+    "Población": 2563
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Puebla de Cazalla, La",
+    "Municipio ID": 41077,
+    "Población": 10903
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Puebla de los Infantes, La",
+    "Municipio ID": 41078,
+    "Población": 2990
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Puebla del Río, La",
+    "Municipio ID": 41079,
+    "Población": 11855
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Real de la Jara, El",
+    "Municipio ID": 41080,
+    "Población": 1510
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Rinconada, La",
+    "Municipio ID": 41081,
+    "Población": 39509
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Roda de Andalucía, La",
+    "Municipio ID": 41082,
+    "Población": 4230
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Ronquillo, El",
+    "Municipio ID": 41083,
+    "Población": 1474
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Rubio, El",
+    "Municipio ID": 41084,
+    "Población": 3352
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Salteras",
+    "Municipio ID": 41085,
+    "Población": 5616
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "San Juan de Aznalfarache",
+    "Municipio ID": 41086,
+    "Población": 22138
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "San Nicolás del Puerto",
+    "Municipio ID": 41088,
+    "Población": 602
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Sanlúcar la Mayor",
+    "Municipio ID": 41087,
+    "Población": 14120
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Santiponce",
+    "Municipio ID": 41089,
+    "Población": 8507
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Saucejo, El",
+    "Municipio ID": 41090,
+    "Población": 4233
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Sevilla",
+    "Municipio ID": 41091,
+    "Población": 681998
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Tocina",
+    "Municipio ID": 41092,
+    "Población": 9484
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Tomares",
+    "Municipio ID": 41093,
+    "Población": 25341
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Umbrete",
+    "Municipio ID": 41094,
+    "Población": 9253
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Utrera",
+    "Municipio ID": 41095,
+    "Población": 51402
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Valencina de la Concepción",
+    "Municipio ID": 41096,
+    "Población": 7988
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Villamanrique de la Condesa",
+    "Municipio ID": 41097,
+    "Población": 4580
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Villanueva de San Juan",
+    "Municipio ID": 41100,
+    "Población": 1037
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Villanueva del Ariscal",
+    "Municipio ID": 41098,
+    "Población": 6715
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Villanueva del Río y Minas",
+    "Municipio ID": 41099,
+    "Población": 4934
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Villaverde del Río",
+    "Municipio ID": 41101,
+    "Población": 7711
+  },
+  {
+    "state_txt": "Sevilla",
+    "Municipio": "Viso del Alcor, El",
+    "Municipio ID": 41102,
+    "Población": 19161
+  }
+]
