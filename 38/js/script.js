@@ -2,16 +2,17 @@ window.addEventListener('DOMContentLoaded', main);
 function main() {
     const pueblo = document.querySelector('#pueblo');
     const provincias = prepararProvincias();
-    pueblo.addEventListener('change', function() {
-        provinciaSeleccionada = buscarPueblo(provincias, pueblo)
+    pueblo.addEventListener('change'/*input*/, function(e) {
+        provinciaSeleccionada = buscarPueblo(provincias, e.target.value)
         if (provinciaSeleccionada != ""){
             console.log(provinciaSeleccionada);
             seleccionarProvincia(provinciaSeleccionada);
             cambiarEscudo(provinciaSeleccionada);
-        }
+        } 
     });
      
 }
+
 function buscarPueblo(provincias, pueblo){
     let salida = "" 
     for (const provincia in provincias) {
@@ -66,7 +67,6 @@ function prepararProvincias(){
     };
     return PROVINCIAS;
 }
-
 
 
 // No es mio
