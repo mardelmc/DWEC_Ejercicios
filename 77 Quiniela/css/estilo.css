@@ -1,3 +1,19 @@
+main{
+    display: grid;
+    justify-content: stretch;
+    align-content: space-evenly;
+    align-items: center;
+    grid-template-rows: 1fr;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 2em;
+    gap: 0;
+}
+
+.numerosSeleccionados{
+    font-family: monospace;
+    font-size: larger;
+}
+
 table, h1{
     margin: 0 auto;
     width: 40%;
@@ -13,9 +29,21 @@ td button{
     padding: 1.5em;
     border: 0;
 }
-td button:hover{
+
+td button:hover {
     background-color: lightseagreen;
 }
-td button:active{
+
+td button.marcado {
     background-color: yellowgreen;
+}
+
+form{
+    display: grid;
+    place-items: center;
+}
+
+form button{
+    padding: .5em;
+    margin: 1em;
 }

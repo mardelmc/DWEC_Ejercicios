@@ -2,7 +2,7 @@ window.addEventListener('DOMContentLoaded', main);
 function main() {
     const pueblo = document.querySelector('#pueblo');
     const provincias = prepararProvincias();
-    pueblo.addEventListener('change'/*input*/, function(e) {
+    pueblo.addEventListener('change'/*input*/, (e) => {
         provinciaSeleccionada = buscarPueblo(provincias, e.target.value)
         if (provinciaSeleccionada != ""){
             console.log(provinciaSeleccionada);
