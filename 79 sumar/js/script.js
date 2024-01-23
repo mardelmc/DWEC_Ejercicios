@@ -19,8 +19,8 @@ function main() {
             colocarResultado(sumafila, sumacolumna,btnPulsado.parentNode.id.charAt(0),btnPulsado.parentNode.id.charAt(2) )
         });
     }
-   
 
+    
 }
 function sumar (btnPulsado, tipo){
     let celdas = document.querySelectorAll('td');
